@@ -14,115 +14,115 @@
     "building_short": "LMU Physik"
   },
   {
-    "address": "Theresienstr. 90",
+    "address": "Theresienstr. 90; 80333 M\u00fcnchen",
     "building_code": "0101",
     "building_id": 561,
-    "building_name": "N1",
+    "building_name": "(N1) H\u00f6rs\u00e4le (U-Trakt)",
     "building_short": null
   },
   {
-    "address": "Theresienstr. 90",
+    "address": "Theresienstr. 90; 80333 M\u00fcnchen",
     "building_code": "0102",
     "building_id": 562,
-    "building_name": "N2",
+    "building_name": "(N2) Hochvolthaus",
     "building_short": null
   },
   {
-    "address": "Theresienstr. 90",
+    "address": "Theresienstr. 90; 80333 M\u00fcnchen",
     "building_code": "0103",
     "building_id": 563,
-    "building_name": "N3",
+    "building_name": "(N3) El.Masch./Ger\u00e4te",
     "building_short": null
   },
   {
-    "address": "Theresienstr. 90",
+    "address": "Theresienstr. 90; 80333 M\u00fcnchen",
     "building_code": "0104",
     "building_id": 564,
-    "building_name": "N4",
+    "building_name": "(N4) Elektro Physik",
     "building_short": null
   },
   {
-    "address": "Theresienstr. 90",
+    "address": "Theresienstr. 90; 80333 M\u00fcnchen",
     "building_code": "0105",
     "building_id": 565,
-    "building_name": "N5",
+    "building_name": "(N5) Elektrotechnik",
     "building_short": null
   },
   {
-    "address": "Theresienstr. 90",
+    "address": "Theresienstr. 90; 80333 M\u00fcnchen",
     "building_code": "0106",
     "building_id": 566,
-    "building_name": "N6",
+    "building_name": "(N6) Materialpr\u00fcfamt",
     "building_short": null
   },
   {
-    "address": "Theresienstr. 90",
+    "address": "Theresienstr. 90; 80333 M\u00fcnchen",
     "building_code": "0108",
     "building_id": 567,
-    "building_name": "N8",
+    "building_name": "(N8) Verf\u00fcgungsgeb\u00e4ude",
     "building_short": null
   },
   {
-    "address": "Theresienstr. 90",
+    "address": "Theresienstr. 90; 80333 M\u00fcnchen",
     "building_code": "0109",
     "building_id": 1849,
-    "building_name": "Reflexionsarmer Raum",
+    "building_name": "(N9) Reflexionsarmer Raum",
     "building_short": "N9"
   },
   {
-    "address": null,
+    "address": "Gabelsbergerstr. 43; 80333 M\u00fcnchen",
     "building_code": "0201",
     "building_id": 568,
-    "building_name": "Gabelsbergerstr. 43",
+    "building_name": "(S1) Gabelsbergerstr. 43, StudiTUM",
     "building_short": null
   },
   {
-    "address": "Gabelsbergerstr. 39",
+    "address": "Gabelsbergerstr. 39; 80333 M\u00fcnchen",
     "building_code": "0202",
     "building_id": 569,
-    "building_name": "Gabelsbergerstr. 39",
+    "building_name": "(S2) Gabelsbergerstr. 39",
     "building_short": null
   },
   {
-    "address": "Gabelsbergerstr. 45",
+    "address": "Gabelsbergerstr. 45; 80333 M\u00fcnchen",
     "building_code": "0203",
     "building_id": 570,
-    "building_name": "Gabelsbergerstr. 45",
+    "building_name": "(S3) Gabelsbergerstr. 45",
     "building_short": null
   },
   {
-    "address": "Gabelsbergerstr. 49",
+    "address": "Gabelsbergerstr. 49; 80333 M\u00fcnchen",
     "building_code": "0204",
     "building_id": 571,
-    "building_name": "Gabelsbergerstr. 49",
+    "building_name": "(S4) Gabelsbergerstr. 49",
     "building_short": null
   },
   {
-    "address": "Arcisstr. 19",
+    "address": "Arcisstr. 19; 80333 M\u00fcnchen",
     "building_code": "0205",
     "building_id": 572,
-    "building_name": "Arcisstr. 19",
+    "building_name": "(S5) Arcisstr. 19",
     "building_short": null
   },
   {
-    "address": "Arcisstr. 17",
+    "address": "Arcisstr. 17; 80333 M\u00fcnchen",
     "building_code": "0206",
     "building_id": 573,
-    "building_name": "Arcisstr. 17",
+    "building_name": "(S6) Mensa Arcisstra\u00dfe 17",
     "building_short": null
   },
   {
-    "address": "Barerstr. 21",
+    "address": "Barerstr. 21; 80333 M\u00fcnchen",
     "building_code": "0305",
     "building_id": 574,
-    "building_name": "S5",
+    "building_name": "(S\u00fcdost 5) Block D (ehem. LRZ)",
     "building_short": null
   },
   {
-    "address": "Richard-Wagner-Str. 18",
+    "address": "Richard-Wagner-Str. 18; 80333 M\u00fcnchen",
     "building_code": "0401",
     "building_id": 575,
-    "building_name": "Richard-Wagner-Str. 18",
+    "building_name": "(SW1) Richard-Wagner-Str. 18",
     "building_short": null
   },
   {
@@ -133,98 +133,98 @@
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Richard-Wagner-Str. 14; 80333 M\u00fcnchen",
     "building_code": "0403",
     "building_id": 576,
-    "building_name": "Kindergarten",
+    "building_name": "(SW3) Friedrich Schiedel-Kindergarten (L",
     "building_short": null
   },
   {
-    "address": "Arcisstr. 21",
+    "address": "Arcisstr. 21; 80333 M\u00fcnchen",
     "building_code": "0501",
     "building_id": 577,
-    "building_name": "Institutsbau",
+    "building_name": "(Z1) Institutsbau",
     "building_short": null
   },
   {
-    "address": "Arcisstr. 21",
+    "address": "Arcisstr. 21; 80333 M\u00fcnchen",
     "building_code": "0502",
     "building_id": 578,
-    "building_name": "Zentralgeb\u00e4ude 2",
+    "building_name": "(Z2) Zentralgeb\u00e4ude 2",
     "building_short": null
   },
   {
-    "address": "Arcisstr. 21",
+    "address": "Arcisstr. 21; 80333 M\u00fcnchen",
     "building_code": "0503",
     "building_id": 579,
-    "building_name": "Thierschbau",
+    "building_name": "(Z3) Thierschbau",
     "building_short": null
   },
   {
-    "address": "Arcisstr. 21",
+    "address": "Arcisstr. 21; 80333 M\u00fcnchen",
     "building_code": "0504",
     "building_id": 580,
-    "building_name": "Landwirtschaftsbau",
+    "building_name": "(Z4) Landwirtschaftsbau",
     "building_short": null
   },
   {
-    "address": "Arcisstr. 21",
+    "address": "Arcisstr. 21; 80333 M\u00fcnchen",
     "building_code": "0505",
     "building_id": 581,
-    "building_name": "Wirtschaftswissenschaften",
+    "building_name": "(Z5) Wirtschaftswissenschaften",
     "building_short": null
   },
   {
-    "address": "Arcisstr. 21",
+    "address": "Arcisstr. 21; 80333 M\u00fcnchen",
     "building_code": "0506",
     "building_id": 582,
-    "building_name": "Theresianum",
+    "building_name": "(Z6) Theresianum",
     "building_short": null
   },
   {
-    "address": "Arcisstr. 21",
+    "address": "Arcisstr. 21; 80333 M\u00fcnchen",
     "building_code": "0507",
     "building_id": 583,
-    "building_name": "Zentralgeb\u00e4ude 7",
+    "building_name": "(Z7) Zentralgeb\u00e4ude 7",
     "building_short": null
   },
   {
-    "address": "Arcisstr. 21",
+    "address": "Arcisstr. 21; 80333 M\u00fcnchen",
     "building_code": "0508",
     "building_id": 584,
     "building_name": "(Z8) W\u00e4rmekraftwerk/Hydr.-Inst.",
     "building_short": null
   },
   {
-    "address": "Arcisstr. 21",
+    "address": "Arcisstr. 21; 80333 M\u00fcnchen",
     "building_code": "0509",
     "building_id": 585,
-    "building_name": "Neubau Innenhof",
+    "building_name": "(Z9) Neubau Innenhof",
     "building_short": null
   },
   {
-    "address": "Arcisstr. 21",
+    "address": "Arcisstr. 21; 80333 M\u00fcnchen",
     "building_code": "0510",
     "building_id": 586,
-    "building_name": "Verwaltungsbau",
+    "building_name": "(Z10) Verwaltungsbau",
     "building_short": null
   },
   {
-    "address": "Arcisstr. 21",
+    "address": "Arcisstr. 21; 80333 M\u00fcnchen",
     "building_code": "0511",
     "building_id": 587,
     "building_name": "(Z11) Elektro/Werkstatt/L\u00f6sungsmittel-Bu",
     "building_short": null
   },
   {
-    "address": "Arcisstr. 21",
+    "address": "Arcisstr. 21; 80333 M\u00fcnchen",
     "building_code": "0512",
     "building_id": 588,
     "building_name": "(Z12) Garagen",
     "building_short": null
   },
   {
-    "address": "Arcisstr. 21",
+    "address": "Arcisstr. 21; 80333 M\u00fcnchen",
     "building_code": "0597",
     "building_id": 3309,
     "building_name": "Vorplatz Audi-Max",
@@ -245,21 +245,21 @@
     "building_short": "ASC"
   },
   {
-    "address": "Ismaninger Stra\u00dfe 22",
+    "address": "Ismaninger Str. 22; 81675 M\u00fcnchen",
     "building_code": "1501",
     "building_id": 1037,
     "building_name": "Chirurgische Klinik",
     "building_short": null
   },
   {
-    "address": "Ismaningerstr. 22",
+    "address": "Ismaningerstr. 22; 81675 M\u00fcnchen",
     "building_code": "1503",
     "building_id": 1772,
     "building_name": "Augen, HNO, I.Med., III.Med.",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Trogerstr. 9; 81675 M\u00fcnchen",
     "building_code": "1514",
     "building_id": 1035,
     "building_name": "Interdisziplin\u00e4res Forschungsgeb\u00e4ude",
@@ -280,7 +280,7 @@
     "building_short": null
   },
   {
-    "address": "Trogerstr. 8",
+    "address": "Trogerstr. 8; 81675 M\u00fcnchen",
     "building_code": "1533",
     "building_id": 1769,
     "building_name": "Trogerstr. 8, Pers.Rar-Sch.beh.",
@@ -294,7 +294,7 @@
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Trogerstr. 14; 81675 M\u00fcnchen",
     "building_code": "1536",
     "building_id": 1027,
     "building_name": "Trogerstr. 14, Seminargeb\u00e4ude Geschichte",
@@ -308,7 +308,7 @@
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Trogerstr. 18; 81675 M\u00fcnchen",
     "building_code": "1538",
     "building_id": 1029,
     "building_name": "Trogerstr. 18, Pathologie",
@@ -322,14 +322,14 @@
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Schneckenburgerstr. 8; 81675 M\u00fcnchen",
     "building_code": "1548",
     "building_id": 1030,
     "building_name": "GSF-Container, Inst. Virologie",
     "building_short": null
   },
   {
-    "address": "Ismaninger Stra\u00dfe 22",
+    "address": "Ismaninger Str. 22; 81675 M\u00fcnchen",
     "building_code": "1551",
     "building_id": 1031,
     "building_name": "A1-H\u00f6rs\u00e4le, Mensa",
@@ -343,7 +343,7 @@
     "building_short": null
   },
   {
-    "address": "Trogerstr. 30",
+    "address": "Trogerstr. 30; 81675 M\u00fcnchen",
     "building_code": "1559",
     "building_id": 1033,
     "building_name": "Mikrobiologie/Virologie",
@@ -357,35 +357,35 @@
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Biedersteiner Str. 29; 80802 M\u00fcnchen",
     "building_code": "1601",
     "building_id": 1018,
     "building_name": "Altbau 1, Vorklinik. Inst.",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Biedersteiner Str. 29; 80802 M\u00fcnchen",
     "building_code": "1602",
     "building_id": 1019,
     "building_name": "Altbau 2+3, Anatomisches Institut",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Biedersteiner Str. 29; 80802 M\u00fcnchen",
     "building_code": "1603",
     "building_id": 1020,
     "building_name": "Altbau 2+3, Biologisches Institut",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Dietlindenstr./Biedersteiner Str. 29; 80802 M\u00fcnchen",
     "building_code": "1607",
     "building_id": 1021,
     "building_name": "Altbau 7, Institut f\u00fcr Pharmakologie und",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Dietlindenstr./Biedersteiner Str. 29; 80802 M\u00fcnchen",
     "building_code": "1608",
     "building_id": 1022,
     "building_name": "Altbau 8, Institut f\u00fcr Medizinische Mikr",
@@ -413,7 +413,7 @@
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Nigerstr. 3; 81675 M\u00fcnchen",
     "building_code": "1713",
     "building_id": 1036,
     "building_name": "Nigerstr. 3 (AM)",
@@ -427,7 +427,7 @@
     "building_short": null
   },
   {
-    "address": "Prinzregentenstra\u00dfe 68",
+    "address": "Prinzregentenstra\u00dfe 68; 81675 M\u00fcnchen",
     "building_code": "1724",
     "building_id": 2309,
     "building_name": "Prinzregentenstr. 68 (AM) MRI",
@@ -441,49 +441,49 @@
     "building_short": null
   },
   {
-    "address": "Neherstra\u00dfe 1",
+    "address": "Neherstra\u00dfe 1; 81675 M\u00fcnchen",
     "building_code": "1740",
     "building_id": 2909,
     "building_name": "Neherstr.1 (AM) ForTe",
     "building_short": null
   },
   {
-    "address": "Bildungscampus 2",
+    "address": "Bildungscampus 2; 74076 Heilbronn",
     "building_code": "1901",
     "building_id": 2369,
     "building_name": "Bildungscampus D",
     "building_short": null
   },
   {
-    "address": "Bildungscampus 9",
+    "address": "Bildungscampus 9; 74076 Heilbronn",
     "building_code": "1902",
     "building_id": 2370,
     "building_name": "Bildungscampus L",
     "building_short": null
   },
   {
-    "address": "Weipertstr. 8-10",
+    "address": "Weipertstr. 8-10; 74076 Heilbronn",
     "building_code": "1910",
     "building_id": 3189,
     "building_name": "Bildungscampus C",
     "building_short": null
   },
   {
-    "address": "Edisonstr. 3",
+    "address": "Edisonstr. 3; 74076 Heilbronn",
     "building_code": "1912",
     "building_id": 3449,
     "building_name": "Edisonstr.3",
     "building_short": null
   },
   {
-    "address": "Etzelstr. 38",
+    "address": "Etzelstr. 38; 74076 Heilbronn",
     "building_code": "1915",
     "building_id": 3191,
     "building_name": "Bildungscampus/Etzelstr.38",
     "building_short": null
   },
   {
-    "address": "Berliner Platz 12",
+    "address": "Berliner Platz 12; 74072 Heilbronn",
     "building_code": "1920",
     "building_id": 3389,
     "building_name": "Bildungscampus K3",
@@ -504,49 +504,49 @@
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Schragenhofstr. 31; 80992 M\u00fcnchen",
     "building_code": "2103",
     "building_id": 614,
     "building_name": "Werkstattgeb\u00e4ude",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Schragenhofstr. 31; 80992 M\u00fcnchen",
     "building_code": "2104",
     "building_id": 615,
     "building_name": "Laborgeb\u00e4ude",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Schragenhofstr. 31; 80992 M\u00fcnchen",
     "building_code": "2105",
     "building_id": 616,
     "building_name": "Trafo und Lager",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Schragenhofstr. 31; 80992 M\u00fcnchen",
     "building_code": "2106",
     "building_id": 617,
     "building_name": "Pforte",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Schragenhofstr. 31; 80992 M\u00fcnchen",
     "building_code": "2107",
     "building_id": 618,
     "building_name": "Institutsgeb\u00e4ude",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Schragenhofstr. 31; 80992 M\u00fcnchen",
     "building_code": "2108",
     "building_id": 619,
     "building_name": "Bunker",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Schragenhofstr. 31; 80992 M\u00fcnchen",
     "building_code": "2109",
     "building_id": 620,
     "building_name": "Tankstelle",
@@ -623,14 +623,14 @@
     "building_short": null
   },
   {
-    "address": "Kolehmainenweg 7",
+    "address": "Kolehmainenweg 7; 80809 M\u00fcnchen",
     "building_code": "2309",
     "building_id": 607,
     "building_name": "(SZ) Tennis Geb\u00e4ude",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Kolehmainenweg 7; 80809 M\u00fcnchen",
     "building_code": "2310",
     "building_id": 608,
     "building_name": "(SZ) Tennisanlagen",
@@ -644,7 +644,7 @@
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Am Olympiacampus 11; 80809 M\u00fcnchen",
     "building_code": "2312",
     "building_id": 610,
     "building_name": "(SZ) Sport-, Aussenanlagen/Teil-Umbau",
@@ -658,112 +658,112 @@
     "building_short": null
   },
   {
-    "address": "Am Olympiacampus 12",
+    "address": "Am Olympiacampus 12; 80809 M\u00fcnchen",
     "building_code": "2315",
     "building_id": 612,
     "building_name": "(SZ) Pr\u00e4ventionszentrum",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Am Olympiacampus 11; 80809 M\u00fcnchen",
     "building_code": "2317",
     "building_id": 2769,
     "building_name": "(SZ) Kletterturm Campus im Olympiapark",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Am Olympiacampus 11; 80809 M\u00fcnchen",
     "building_code": "2318",
     "building_id": 2772,
-    "building_name": "(SZ) Boulderturm im Campus im Olympiapark",
+    "building_name": "(SZ) Boulderturm im Campus im Olympiapar",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Am Olympiacampus 11; 80809 M\u00fcnchen",
     "building_code": "2319",
     "building_id": 2770,
-    "building_name": "(SZ) KBA Kletter- und Boulderanlage Outdoor",
+    "building_name": "(SZ) KBA Kletter- und Boulderanlage Outd",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Am Olympiacampus 11; 80809 M\u00fcnchen",
     "building_code": "2320",
     "building_id": 2771,
     "building_name": "(SZ) FIA Fitnessanlage Outdoor",
     "building_short": null
   },
   {
-    "address": "Connollystr. 32",
+    "address": "Am Olympiacampus 11; 80809 M\u00fcnchen",
     "building_code": "2321",
     "building_id": 613,
     "building_name": "(SZ) Rasenspielpl\u00e4tze/Teil-Umbauten",
     "building_short": null
   },
   {
-    "address": "Am Olympiacampus 11",
+    "address": "Am Olympiacampus 11; 80809 M\u00fcnchen",
     "building_code": "2330",
     "building_id": 2749,
-    "building_name": "CiO/SG Seminarr\u00e4ume",
+    "building_name": "CiO/SG - rue, Seminarr\u00e4ume",
     "building_short": null
   },
   {
-    "address": "Am Olympiacampus 11",
+    "address": "Am Olympiacampus 11; 80809 M\u00fcnchen",
     "building_code": "2331",
     "building_id": 2609,
-    "building_name": "CiO/SG Hallen West, Cafeteria",
+    "building_name": "CiO/SG - Hallen West, Cafeteria",
     "building_short": null
   },
   {
-    "address": "Am Olympiacampus 11",
+    "address": "Am Olympiacampus 11; 80809 M\u00fcnchen",
     "building_code": "2332",
     "building_id": 2829,
-    "building_name": "CiO/SG Institute Ost",
+    "building_name": "CiO/SG - Institute Ost",
     "building_short": null
   },
   {
-    "address": "Am Olympiacampus 11",
+    "address": "Am Olympiacampus 11; 80809 M\u00fcnchen",
     "building_code": "2333",
     "building_id": 2809,
-    "building_name": "CiO/SG Hallen Ost",
+    "building_name": "CiO/SG - Hallen Ost",
     "building_short": null
   },
   {
-    "address": "Am Olympiacampus 11",
+    "address": "Am Olympiacampus 11; 80809 M\u00fcnchen",
     "building_code": "2334",
     "building_id": 2789,
-    "building_name": "CiO/SG Institute West, Bibliothek",
+    "building_name": "CiO/SG - Institute West, Bibliothek",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Coubertinplatz 1; 80809 M\u00fcnchen",
     "building_code": "2350",
     "building_id": 1015,
     "building_name": "(SZ) Olympiaschwimmhalle (AM)",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Spiridon-Louis-Ring 21; 80809 M\u00fcnchen",
     "building_code": "2351",
     "building_id": 1016,
     "building_name": "(SZ) Olympia-Eislaufstadion (AM)",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Spiridon-Louis-Ring 21; 80809 M\u00fcnchen",
     "building_code": "2352",
     "building_id": 1017,
     "building_name": "(SZ) Olympiapark (AM)",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Staudingerstr.; 81737 M\u00fcnchen",
     "building_code": "2353",
     "building_id": 1060,
     "building_name": "(SZ) Eislaufstadion Ost (AM)",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Dachauerstr. 35; 85764 Oberschlei\u00dfheim",
     "building_code": "2354",
     "building_id": 1039,
     "building_name": "(SZ) Regattaanlage Oberschlei\u00dfheim (AM)",
@@ -784,80 +784,80 @@
     "building_short": null
   },
   {
-    "address": "Connollystr. 32",
+    "address": "Am Olympiacampus 11; 80809 M\u00fcnchen",
     "building_code": "2364",
     "building_id": 3274,
     "building_name": "Wetterschutzhaus / WSH 1",
     "building_short": null
   },
   {
-    "address": "Connollystr. 32",
+    "address": "Am Olympiacampus 11; 80809 M\u00fcnchen",
     "building_code": "2365",
     "building_id": 3271,
     "building_name": "Wetterschutzhaus / WSH 2",
     "building_short": null
   },
   {
-    "address": "Connollystr. 32",
+    "address": "Am Olympiacampus 11; 80809 M\u00fcnchen",
     "building_code": "2367",
     "building_id": 3270,
     "building_name": "Wetterschutzhaus / WSH 4",
     "building_short": null
   },
   {
-    "address": "Connollystr. 32",
+    "address": "Am Olympiacampus 11; 80809 M\u00fcnchen",
     "building_code": "2368",
     "building_id": 3269,
     "building_name": "Wetterschutzhaus / WSH 5",
     "building_short": null
   },
   {
-    "address": "Connollystr. 32",
+    "address": "Am Olympiacampus 11; 80809 M\u00fcnchen",
     "building_code": "2369",
     "building_id": 3272,
     "building_name": "Wetterschutzhaus / WSH 6",
     "building_short": null
   },
   {
-    "address": "Winzererstr. 45",
+    "address": "Winzererstr. 45; 80797 M\u00fcnchen",
     "building_code": "2401",
     "building_id": 595,
-    "building_name": "Holzforschung M\u00fcnchen Altbau\n",
+    "building_name": "Holzforschung M\u00fcnchen Altbau",
     "building_short": null
   },
   {
-    "address": "Winzererstr. 45",
+    "address": "Winzererstr. 45; 80797 M\u00fcnchen",
     "building_code": "2402",
     "building_id": 596,
-    "building_name": "Holzforschung M\u00fcnchen Neubau\n",
+    "building_name": "Holzforschung M\u00fcnchen Neubau",
     "building_short": null
   },
   {
-    "address": "He\u00dfstr. 134",
+    "address": "He\u00dfstr. 134; 80797 M\u00fcnchen",
     "building_code": "2410",
     "building_id": 2210,
-    "building_name": "He\u00dfstra\u00dfe 134",
+    "building_name": "He\u00dfstr. 134 (UMBAU)",
     "building_short": null
   },
   {
-    "address": "Einsteinstra\u00dfe 25",
+    "address": "Einsteinstr. 25; 81675 M\u00fcnchen",
     "building_code": "2522",
     "building_id": 2129,
     "building_name": "Center for Translational Cancer Research",
     "building_short": null
   },
   {
-    "address": "Franz-Langinger-Str. 10",
+    "address": "Franz-Langinger-Str. 10; 81245 M\u00fcnchen",
     "building_code": "2601",
     "building_id": 621,
-    "building_name": "Institut f\u00fcr Grundbau und Bodenmechanik",
+    "building_name": "Institut f\u00fcr Grundbau  und Bodenmechanik",
     "building_short": null
   },
   {
-    "address": "Franz-Langinger-Str. 10",
+    "address": "Franz-Langinger-Str. 10; 81245 M\u00fcnchen",
     "building_code": "2602",
     "building_id": 622,
-    "building_name": "Institut f\u00fcr Eisenbahn und Landverkehrswesen",
+    "building_name": "Institut f\u00fcr Eisenbahn und Landverkehrsw",
     "building_short": null
   },
   {
@@ -868,21 +868,21 @@
     "building_short": null
   },
   {
-    "address": "Franz-Langinger-Str. 10",
+    "address": "Franz-Langinger-Str. 10; 81245 M\u00fcnchen",
     "building_code": "2604",
     "building_id": 623,
     "building_name": "Laborbau",
     "building_short": null
   },
   {
-    "address": "Franz-Langinger-Str. 10",
+    "address": "Franz-Langinger-Str. 10; 81245 M\u00fcnchen",
     "building_code": "2605",
     "building_id": 624,
     "building_name": "Verwaltungsbau",
     "building_short": null
   },
   {
-    "address": "Franz-Langinger-Str. 10",
+    "address": "Franz-Langinger-Str. 10; 81245 M\u00fcnchen",
     "building_code": "2607",
     "building_id": 625,
     "building_name": "Fahrzeughalle",
@@ -903,56 +903,56 @@
     "building_short": null
   },
   {
-    "address": "Elisabeth-Winterhalter-Weg 6",
+    "address": "Elisabeth-Winterhalter-Weg 6; 81377 M\u00fcnchen",
     "building_code": "2801",
     "building_id": 628,
-    "building_name": "Marchioninistr. 17 (NR)",
+    "building_name": "Elisabeth-Winterhalter-Weg (NR)",
     "building_short": null
   },
   {
-    "address": "Museumsinsel 1",
+    "address": "Museumsinsel 1; 80538 M\u00fcnchen",
     "building_code": "2803",
     "building_id": 3049,
     "building_name": "Forum der Zukunft (AM)",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Museumsinsel 1; 80538 M\u00fcnchen",
     "building_code": "2804",
     "building_id": 593,
-    "building_name": "Deutsches Museum Bibliotheksgeb\u00e4ude (NR)",
+    "building_name": "Deutsches Museum, Museumsinsel 1 (NR)",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Karl-Benz-Str. 15; 85221 Dachau",
     "building_code": "2805",
     "building_id": 652,
     "building_name": "Dachau, Karl-Benz-Str. (AM)",
     "building_short": null
   },
   {
-    "address": "Oettingenstr. 15",
+    "address": "Oettingenstr. 15; 80538 M\u00fcnchen",
     "building_code": "2806",
     "building_id": 594,
     "building_name": "Werkstattgeb\u00e4ude National Museum (NR)",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Barerstr. 40; 80799 M\u00fcnchen",
     "building_code": "2807",
     "building_id": 597,
     "building_name": "Pinakothek der Moderne (NR)",
     "building_short": null
   },
   {
-    "address": "Dr. Albert-Frank-Str. 32",
+    "address": "Dr. Albert-Frank-Str. 32; 83308 Trostberg",
     "building_code": "2808",
     "building_id": 1445,
     "building_name": "Forschungszentrum f. Bauchemie (NR)",
     "building_short": null
   },
   {
-    "address": "Augustenstr. 44_46",
+    "address": "Augustenstr. 44_46; 80333 M\u00fcnchen",
     "building_code": "2903",
     "building_id": 589,
     "building_name": "Haus Soller Augustenstr. 44_46 (AM)",
@@ -973,80 +973,80 @@
     "building_short": null
   },
   {
-    "address": "Karlstr. 45-47",
+    "address": "Karlstr. 45-47; 80333 M\u00fcnchen",
     "building_code": "2906",
     "building_id": 995,
-    "building_name": "Karlstra\u00dfe 45/47 (AM)\n",
+    "building_name": "Karlstra\u00dfe 45/47 (AM)",
     "building_short": null
   },
   {
-    "address": "Marsstr. 20-22",
+    "address": "Marsstr. 20-22; 80335 M\u00fcnchen",
     "building_code": "2907",
     "building_id": 1485,
-    "building_name": "Marsstr. 20-22",
+    "building_name": "Marsstr. 20/22 (AM)",
     "building_short": null
   },
   {
-    "address": "Marsstra\u00dfe 40",
+    "address": "Marsstra\u00dfe 40; 80335 M\u00fcnchen",
     "building_code": "2908",
     "building_id": 1810,
     "building_name": "Marsstr. 40  (AM)",
     "building_short": null
   },
   {
-    "address": "Denisstr. 1B",
+    "address": "Denisstr. 1B; 80333 M\u00fcnchen",
     "building_code": "2909",
     "building_id": 2209,
-    "building_name": "Denisstr. 1B, R\u00fcckgeb\u00e4ude",
+    "building_name": "(AM) Denisstr. 1B, R\u00fcckgeb\u00e4ude",
     "building_short": "AM"
   },
   {
-    "address": "Richard-Wagner-Str. 1",
+    "address": "Richard-Wagner-Str. 1; 80333 M\u00fcnchen",
     "building_code": "2910",
     "building_id": 1929,
-    "building_name": "Richard-Wagner-Str. 1",
+    "building_name": "RiWa Nr. 1/Haus B + Haus H",
     "building_short": null
   },
   {
-    "address": "Richard-Wagner-Str. 3",
+    "address": "Richard-Wagner-Str. 3; 80333 M\u00fcnchen",
     "building_code": "2911",
     "building_id": 1889,
-    "building_name": "Richard-Wagner-Str. 3",
+    "building_name": "RiWa Nr. 3/Haus C",
     "building_short": null
   },
   {
-    "address": "Augustenstr. 40",
+    "address": "Augustenstr. 40; 80333 M\u00fcnchen",
     "building_code": "2912",
     "building_id": 3250,
     "building_name": "Brienner Forum Haus E (AM)",
     "building_short": null
   },
   {
-    "address": "Augustenstr. 40",
+    "address": "Augustenstr. 40; 80333 M\u00fcnchen",
     "building_code": "2913",
     "building_id": 3249,
     "building_name": "Brienner Forum Haus F(AM)",
     "building_short": null
   },
   {
-    "address": "Gabelsbergerstr. 47",
+    "address": "Gabelsbergerstr. 47; 80333 M\u00fcnchen",
     "building_code": "2920",
     "building_id": 2189,
     "building_name": "Gabelsbergerstr. 47 (AM)",
     "building_short": null
   },
   {
-    "address": "Leopoldstr. 139/145",
+    "address": "Leopoldstr. 139/145; 80804 M\u00fcnchen",
     "building_code": "2926",
     "building_id": 598,
-    "building_name": "Leopoldstra\u00dfe 139/145",
+    "building_name": "Leopoldstr. 139/145 (AM)",
     "building_short": null
   },
   {
-    "address": "Petersgasse 18",
+    "address": "Petersgasse 18; 94315 Straubing",
     "building_code": "2927",
     "building_id": 878,
-    "building_name": "TUM CS PG18 (AM), Petersgasse 18\n",
+    "building_name": "TUM CS PG18 (AM)",
     "building_short": null
   },
   {
@@ -1057,10 +1057,10 @@
     "building_short": null
   },
   {
-    "address": "Schulgasse 20",
+    "address": "Schulgasse 20; 94315 Straubing",
     "building_code": "2929",
     "building_id": 1525,
-    "building_name": "TUM CS SG20 (AM), Schulgasse 20\n",
+    "building_name": "TUM CS SG20 (AM)",
     "building_short": null
   },
   {
@@ -1071,21 +1071,21 @@
     "building_short": null
   },
   {
-    "address": "Georg-Brauchle-Ring 50_66",
+    "address": "Georg-Brauchle-Ring 50_66; 80992 M\u00fcnchen",
     "building_code": "2940",
     "building_id": 1285,
-    "building_name": "Campus C / Uptown M\u00fcnchen",
+    "building_name": "Campus C   (AM)",
     "building_short": null
   },
   {
-    "address": "Georg-Brauchle-Ring 60_62",
+    "address": "Georg-Brauchle-Ring 60_62; 80992 M\u00fcnchen",
     "building_code": "2941",
     "building_id": 1245,
-    "building_name": "Campus D / Uptown M\u00fcnchen",
+    "building_name": "Campus D   (AM)",
     "building_short": null
   },
   {
-    "address": "Freddie-Mercury-Stra\u00dfe 5",
+    "address": "Freddie-Mercury-Str. 5; 80636 M\u00fcnchen",
     "building_code": "2944",
     "building_id": 2869,
     "building_name": "Munich Urban Colab",
@@ -1099,248 +1099,248 @@
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Ingolst\u00e4dter Landstr. 1; 85764 Oberschlei\u00dfheim",
     "building_code": "3035",
     "building_id": 1141,
     "building_name": "Helmholtz Biologikum",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Am Burghof 3; 99947 M\u00fclverstedt",
     "building_code": "3100",
     "building_id": 1545,
     "building_name": "Projektb\u00fcro Hainich",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Obernach/Walchensee 15; 82432 Obernach",
     "building_code": "3101",
     "building_id": 909,
     "building_name": "Obernach B\u00fcrogeb\u00e4ude",
     "building_short": null
   },
   {
-    "address": "Obernach/Walchensee",
+    "address": "Obernach/Walchensee 15; 82432 Obernach",
     "building_code": "3102",
     "building_id": 910,
     "building_name": "Obernach Vesuchshalle 1",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Obernach/Walchensee 15; 82432 Obernach",
     "building_code": "3103",
     "building_id": 911,
     "building_name": "Obernach Werkst\u00e4tten",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Obernach/Walchensee 15; 82432 Obernach",
     "building_code": "3104",
     "building_id": 912,
     "building_name": "Obernach Unterstelle",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Obernach/Walchensee 15; 82432 Obernach",
     "building_code": "3105",
     "building_id": 913,
-    "building_name": "Obernach Archiv/Bibliothek\n",
+    "building_name": "Obernach Archiv/Bibliothek",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Obernach/Walchensee 15; 82432 Obernach",
     "building_code": "3106",
     "building_id": 914,
     "building_name": "Obernach Lagerhalle",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Obernach/Walchensee 15; 82432 Obernach",
     "building_code": "3107",
     "building_id": 915,
-    "building_name": "Obernach Freifl\u00e4che\n",
+    "building_name": "Obernach Freifl\u00e4che",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Obernach/Walchensee 15; 82432 Obernach",
     "building_code": "3108",
     "building_id": 916,
     "building_name": "Obernach Blockhaus",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Obernach/Walchensee 15; 82432 Obernach",
     "building_code": "3109",
     "building_id": 917,
     "building_name": "Obernach Geschiebelager",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Obernach/Walchensee 15; 82432 Obernach",
     "building_code": "3110",
     "building_id": 918,
     "building_name": "Obernach Steuerhaus",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Obernach/Walchensee 15; 82432 Obernach",
     "building_code": "3111",
     "building_id": 919,
     "building_name": "Obernach Messh\u00fctte",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Obernach/Walchensee 15; 82432 Obernach",
     "building_code": "3112",
     "building_id": 920,
     "building_name": "Obernach Trafostation",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Obernach/Walchensee 15; 82432 Obernach",
     "building_code": "3113",
     "building_id": 921,
     "building_name": "Obernach Pumpstation 2",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Obernach/Walchensee 15; 82432 Obernach",
     "building_code": "3114",
     "building_id": 922,
     "building_name": "Obernach Pumpstation 3",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Obernach/Walchensee 15; 82432 Obernach",
     "building_code": "3115",
     "building_id": 923,
     "building_name": "Obernach Pumpstation 4",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Obernach/Walchensee 15; 82432 Obernach",
     "building_code": "3116",
     "building_id": 924,
     "building_name": "Obernach Versuchshalle 2",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Obernach/Walchensee 15; 82432 Obernach",
     "building_code": "3117",
     "building_id": 925,
-    "building_name": "Obernach Holz-/Baulager\n",
+    "building_name": "Obernach Holz-/Baulager",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Obernach/Walchensee 15; 82432 Obernach",
     "building_code": "3118",
     "building_id": 926,
     "building_name": "Obernach Steuerhaus 2",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Obernach/Walchensee 15; 82432 Obernach",
     "building_code": "3119",
     "building_id": 927,
     "building_name": "Obernach Turbinenhaus",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Obernach/Walchensee 15; 82432 Obernach",
     "building_code": "3120",
     "building_id": 928,
-    "building_name": "Obernach Tiefbrunnen\n",
+    "building_name": "Obernach Tiefbrunnen",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Obernach/Walchensee 15; 82432 Obernach",
     "building_code": "3121",
     "building_id": 929,
-    "building_name": "Obernach Modellaustellung\n",
+    "building_name": "Obernach Modellaustellung",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Obernach/Walchensee 15; 82432 Obernach",
     "building_code": "3122",
     "building_id": 2509,
-    "building_name": "Obernach Folienhalle\n",
+    "building_name": "Obernach Folienhalle",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Obernach/Walchensee 15; 82432 Obernach",
     "building_code": "3123",
     "building_id": 2510,
-    "building_name": "Obernach Fl\u00fcssiggastank\n",
+    "building_name": "Obernach Fl\u00fcssiggastank",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Obernach/Walchensee 15; 82432 Obernach",
     "building_code": "3124",
     "building_id": 2511,
-    "building_name": "Obernach unterirdischer Wasserbeh\u00e4lter\n",
+    "building_name": "Obernach unterirdischer Wasserbeh\u00e4lter",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Lindenweg 15; 82223 Eichenau",
     "building_code": "3201",
     "building_id": 633,
-    "building_name": "Eichenau Lindenweg",
+    "building_name": "Eichenau Lindenweg Max-Knei\u00dfl-Institut",
     "building_short": null
   },
   {
-    "address": "Alfons-Goppel-Stra\u00dfe 11",
+    "address": "Alfons-Goppel-Str. 11; 80333 M\u00fcnchen",
     "building_code": "3401",
     "building_id": 1710,
     "building_name": "Akademiegeb\u00e4ude in der Residenz (NR)",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Alfons-Goppel-Str. 11; 80333 M\u00fcnchen",
     "building_code": "3402",
     "building_id": 1709,
     "building_name": "Residenzbereich Hofkapelle (NR)",
     "building_short": null
   },
   {
-    "address": "Schulgasse 16",
+    "address": "Schulgasse 16; 94315 Straubing",
     "building_code": "3501",
     "building_id": 877,
-    "building_name": "TUM CS SG16, Schulgasse 16",
+    "building_name": "TUM CS SG16",
     "building_short": null
   },
   {
-    "address": "Schulgasse 22",
+    "address": "Schulgasse 22; 94315 Straubing",
     "building_code": "3502",
     "building_id": 1729,
-    "building_name": "TUM CS SG22 (AM), Schulgasse 22",
+    "building_name": "TUM CS SG22 (AM)",
     "building_short": null
   },
   {
-    "address": "Petersgasse 5",
+    "address": "Petersgasse 5; 94315 Straubing",
     "building_code": "3503",
     "building_id": 2130,
-    "building_name": "TUM CS PG05, Petersgasse 5",
+    "building_name": "TUM CS PG05",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Schulgasse 22a; 94315 Straubing",
     "building_code": "3504",
     "building_id": 2249,
-    "building_name": "TUM CS SG22a, Schulgasse 22a",
+    "building_name": "TUM CS SG22a",
     "building_short": null
   },
   {
-    "address": "Uferstra\u00dfe 53",
+    "address": "Uferstra\u00dfe 53; 94315 Straubing",
     "building_code": "3505",
     "building_id": 2649,
-    "building_name": "TUM CS H\u00f6rsaal und Forschungsgeb\u00e4ude, Uferstra\u00dfe 53",
+    "building_name": "TUMCS H\u00f6rsaal und Forschungsgeb\u00e4ude f\u00fcr",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Am Essigberg 3; 94315 Straubing",
     "building_code": "3515",
     "building_id": 2389,
-    "building_name": "TUM CS Essigberg 3 (AM), Am Essigberg 3\n",
+    "building_name": "TUM CS Essigberg 3 (AM)",
     "building_short": null
   },
   {
@@ -1351,101 +1351,101 @@
     "building_short": null
   },
   {
-    "address": "Unterer Seeweg 5",
+    "address": "Unterer Seeweg 5; 82319 Starnberg",
     "building_code": "3901",
     "building_id": 645,
     "building_name": "Starnberg Kiosk",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Unterer Seeweg 5; 82319 Starnberg",
     "building_code": "3902",
     "building_id": 646,
-    "building_name": "Starnberg Wohn.-/Unterrichtsgeb\u00e4ude",
+    "building_name": "Starnberg Seglerheim",
     "building_short": null
   },
   {
-    "address": "Unterer Seeweg 5",
+    "address": "Unterer Seeweg 5; 82319 Starnberg",
     "building_code": "3904",
     "building_id": 644,
     "building_name": "Starnberg Bootshaus",
     "building_short": null
   },
   {
-    "address": "Oberer Schlangenweg",
+    "address": "Oberer Schlangenweg; 85354 Freising",
     "building_code": "4001",
     "building_id": 2049,
-    "building_name": "Ruine der Korbinians Kapelle\n",
+    "building_name": "Ruine der Korbinians Kapelle",
     "building_short": null
   },
   {
-    "address": "Alte Akademie 1-3",
+    "address": "Alte Akademie 1-3; 85354 Freising",
     "building_code": "4101",
     "building_id": 715,
-    "building_name": "Verwaltungsstelle / BLQ Brau- und Lebensmittelqualit\u00e4t\n",
+    "building_name": "Verwaltungsstelle / BLQ Brau- und Lebens",
     "building_short": null
   },
   {
-    "address": "Alte Akademie 8",
+    "address": "Alte Akademie 8; 85354 Freising",
     "building_code": "4102",
     "building_id": 716,
-    "building_name": "H\u00f6rsaal- und Dekanatsgeb\u00e4ude\n",
+    "building_name": "H\u00f6rsaal- und Dekanatsgeb\u00e4ude",
     "building_short": null
   },
   {
-    "address": "Alte Akademie 8a",
+    "address": "Alte Akademie 8a; 85354 Freising",
     "building_code": "4103",
     "building_id": 717,
     "building_name": "Sammlungsbau",
     "building_short": null
   },
   {
-    "address": "Alte Akademie 12",
+    "address": "Alte Akademie 12; 85354 Freising",
     "building_code": "4105",
     "building_id": 719,
     "building_name": "Institutsgeb\u00e4ude I",
     "building_short": null
   },
   {
-    "address": "Alte Akademie 14",
+    "address": "Alte Akademie 14; 85354 Freising",
     "building_code": "4106",
     "building_id": 720,
     "building_name": "Institutsgeb\u00e4ude II",
     "building_short": null
   },
   {
-    "address": "Alte Akademie 16",
+    "address": "Alte Akademie 16; 85354 Freising",
     "building_code": "4107",
     "building_id": 721,
     "building_name": "Institutsgeb\u00e4ude III",
     "building_short": null
   },
   {
-    "address": "Alte Akademie 10",
+    "address": "Alte Akademie 10; 85354 Freising",
     "building_code": "4108",
     "building_id": 722,
-    "building_name": "BLQ Lebensmittelsicherheit, H\u00f6rsaal 8&9\n",
+    "building_name": "BLQ Lebensmittelsicherheit, H\u00f6rsaal 8&9",
     "building_short": null
   },
   {
-    "address": "Weihenstephaner Steig 22",
+    "address": "Weihenstephaner Steig 22; 85354 Freising",
     "building_code": "4109",
     "building_id": 723,
     "building_name": "Campus Office",
     "building_short": null
   },
   {
-    "address": "Weihenstephaner Steig 20",
+    "address": "Weihenstephaner Steig 20; 85354 Freising",
     "building_code": "4110",
     "building_id": 724,
     "building_name": "Brau- und Getr\u00e4nketechnologie",
     "building_short": null
   },
   {
-    "address": "Weihenstephaner Steig 18",
+    "address": "Weihenstephaner Steig 18; 85354 Freising",
     "building_code": "4111",
     "building_id": 725,
-    "building_name": "Forschungsbrauerei Weihenstephan - mit Nebengeb\u00e4ude",
+    "building_name": "Forschungsbrauerei Weihenstephan - mit N",
     "building_short": null
   },
   {
@@ -1456,35 +1456,35 @@
     "building_short": null
   },
   {
-    "address": "Weihenstephaner Steig 16",
+    "address": "Weihenstephaner Steig 16; 85354 Freising",
     "building_code": "4113",
     "building_id": 693,
-    "building_name": "StudiTUM",
+    "building_name": "StudiTUM Weihenstephan",
     "building_short": null
   },
   {
-    "address": "Weihenstephaner Steig 14",
+    "address": "Weihenstephaner Steig 14; 85354 Freising",
     "building_code": "4114",
     "building_id": 694,
-    "building_name": "ehem. Bauhof\n",
+    "building_name": "ehm. Bauhof",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Weihenstephaner Steig 19; 85350 Freising",
     "building_code": "4115",
     "building_id": 653,
-    "building_name": "Familienservice\n",
+    "building_name": "Familienservice",
     "building_short": null
   },
   {
-    "address": "Weihenstephaner Steig 17",
+    "address": "Weihenstephaner Steig 17; 85354 Freising",
     "building_code": "4116",
     "building_id": 695,
-    "building_name": "Dr. Gudula Wernekke-Rastetter Kindervilla",
+    "building_name": "Kindervilla (Dr. Gudula Wernekke-Rastett",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Weihenstephaner Steig 17; 85354 Freising",
     "building_code": "4117",
     "building_id": 1325,
     "building_name": "Kindervilla II",
@@ -1498,31 +1498,31 @@
     "building_short": null
   },
   {
-    "address": "Hohenbachernstr. 17",
+    "address": "Hohenbachernstr. 17; 85354 Freising",
     "building_code": "4119",
     "building_id": 727,
-    "building_name": "DFG Senatskommission MAK",
+    "building_name": "Hohenbachernstra\u00dfe 17",
     "building_short": null
   },
   {
-    "address": "Hohenbachernstr. 15",
+    "address": "Hohenbachernstr. 15; 85354 Freising",
     "building_code": "4120",
     "building_id": 701,
-    "building_name": "DFG Senatskommission MAK\n",
+    "building_name": "Hohenbachernstra\u00dfe 15",
     "building_short": null
   },
   {
-    "address": "Weihenstephaner Berg 3",
+    "address": "Weihenstephaner Berg 3; 85354 Freising",
     "building_code": "4124",
     "building_id": 696,
-    "building_name": "ZIEL II - Molekulare Biowissenschaften",
+    "building_name": "Molekulare Biowissenschaften (ZIEL II)",
     "building_short": null
   },
   {
-    "address": "Weihenstephaner Berg 1",
+    "address": "Weihenstephaner Berg 1; 85354 Freising",
     "building_code": "4126",
     "building_id": 697,
-    "building_name": "ZIEL I - Zentralinstitut f\u00fcr Ern\u00e4hrung- u.Lebensmittelf.\n",
+    "building_name": "ZIEL I - Zentralinstitut f\u00fcr Ern\u00e4hrung-",
     "building_short": null
   },
   {
@@ -1533,38 +1533,38 @@
     "building_short": null
   },
   {
-    "address": "Am Hofgarten",
+    "address": "Am Hofgarten; 85354 Freising",
     "building_code": "4128",
     "building_id": 699,
     "building_name": "Trafostation I, Am L\u00f6wentor",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "M\u00fchlenweg 22; 85354 Freising",
     "building_code": "4129",
     "building_id": 1465,
-    "building_name": "Aquatische Systembiologie\n",
+    "building_name": "Aquatische Systembiologie",
     "building_short": null
   },
   {
-    "address": "Weihenstephaner Berg 13",
+    "address": "Weihenstephaner Berg 13; 85354 Freising",
     "building_code": "4130",
     "building_id": 1225,
     "building_name": "Trafostation IV (Sprachlabor)",
     "building_short": null
   },
   {
-    "address": "M\u00fchlenweg 22",
+    "address": "M\u00fchlenweg 22; 85354 Freising",
     "building_code": "4131",
     "building_id": 1466,
-    "building_name": "Aquatische Systembiologie \"M\u00fchle\"\n",
+    "building_name": "Aquatische Systembiologie \"M\u00fchle\"",
     "building_short": null
   },
   {
-    "address": "M\u00fchlenweg 18",
+    "address": "M\u00fchlenweg 18; 85354 Freising",
     "building_code": "4132",
     "building_id": 1669,
-    "building_name": "Aquatische Systembiologie \"Wagnerhaus\"\n",
+    "building_name": "Aquatische Systembiologie \"Wagnerhaus\"",
     "building_short": null
   },
   {
@@ -1575,21 +1575,21 @@
     "building_short": null
   },
   {
-    "address": "Weihenstephaner Berg 13",
+    "address": "Weihenstephaner Berg 13; 85354 Freising",
     "building_code": "4153",
     "building_id": 700,
     "building_name": "Hochschulsport / Sprachenzentrum",
     "building_short": null
   },
   {
-    "address": "Weihenstephaner Berg",
+    "address": "Weihenstephaner Berg; 85354 Freising",
     "building_code": "4155",
     "building_id": 2170,
     "building_name": "Kustermannhalle",
     "building_short": null
   },
   {
-    "address": "Weihenstephaner Berg 21",
+    "address": "Weihenstephaner Berg 21; 85354 Freising",
     "building_code": "4156",
     "building_id": 2151,
     "building_name": "Flaschenkeller Staatsbrauerei",
@@ -1603,14 +1603,14 @@
     "building_short": null
   },
   {
-    "address": "Staatsgut Veitshof",
+    "address": "Staatsgut Veitshof; 85354 Freising",
     "building_code": "4180",
     "building_id": 660,
     "building_name": "Veitshof Verwaltungsgeb\u00e4ude",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Staatsgut Veitshof; 85354 Freising",
     "building_code": "4181",
     "building_id": 661,
     "building_name": "Veitshof Maschinenhalle",
@@ -1624,10 +1624,10 @@
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Staatsgut Veitshof; 85354 Freising",
     "building_code": "4183",
     "building_id": 663,
-    "building_name": "Veitshof Wohnung / Garage",
+    "building_name": "Veitshof Wohnung/Garage",
     "building_short": null
   },
   {
@@ -1645,31 +1645,31 @@
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Staatsgut Veitshof; 85354 Freising",
     "building_code": "4186",
     "building_id": 707,
     "building_name": "Veitshof G\u00e4rfuttersilo",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Staatsgut Veitshof; 85354 Freising",
     "building_code": "4187",
     "building_id": 708,
     "building_name": "Veitshof Dungsilo",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Staatsgut Veitshof; 85354 Freising",
     "building_code": "4188",
     "building_id": 709,
-    "building_name": "Veitshof Fahrsilo\n",
+    "building_name": "Veitshof Fahrsilo",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Staatsgut Veitshof; 85354 Freising",
     "building_code": "4189",
     "building_id": 710,
-    "building_name": "Veitshof Strohlagerhalle\n",
+    "building_name": "Veitshof Strohlagerhalle",
     "building_short": null
   },
   {
@@ -1680,17 +1680,17 @@
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Staatsgut Veitshof; 85354 Freising",
     "building_code": "4191",
     "building_id": 712,
-    "building_name": "Veitshof Fahrsilo\n",
+    "building_name": "Veitshof Fahrsilo",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Staatsgut Veitshof; 85354 Freising",
     "building_code": "4192",
     "building_id": 1789,
-    "building_name": "Veitshof ehem. Wasserwerk\n",
+    "building_name": "Veitshof ehem. Wasserwerk",
     "building_short": null
   },
   {
@@ -1708,136 +1708,136 @@
     "building_short": null
   },
   {
-    "address": "Liesel-Beckmann-Str.",
+    "address": "Liesel-Beckmann-Str.; 85354 Freising",
     "building_code": "4202",
     "building_id": 2149,
     "building_name": "Trafostation V",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Gregor-Mendel-Stra\u00dfe 1; 85354 Freising",
     "building_code": "4205",
     "building_id": 691,
-    "building_name": "Lagerhalle Verwaltungsstelle",
+    "building_name": "Servicegeb\u00e4ude II",
     "building_short": null
   },
   {
-    "address": "Am Staudengarten 2",
+    "address": "Am Staudengarten 2; 85354 Freising",
     "building_code": "4210",
     "building_id": 726,
     "building_name": "Agrarsystemtechnik",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "V\u00f6ttinger Str. 36; 85354 Freising",
     "building_code": "4211",
     "building_id": 1140,
     "building_name": "LfL B\u00fcrogeb\u00e4ude 14",
     "building_short": null
   },
   {
-    "address": "Emil-Erlenmeyer-Forum 5",
+    "address": "Emil-Erlenmeyer-Forum 5; 85354 Freising",
     "building_code": "4212",
     "building_id": 679,
     "building_name": "Chemie Bioanalytik Peptidbiochemie",
     "building_short": null
   },
   {
-    "address": "Maximus-von-Imhof-Forum 2",
+    "address": "Maximus-von-Imhof-Forum 2; 85354 Freising",
     "building_code": "4213",
     "building_id": 680,
     "building_name": "Lebensmitteltechnikum",
     "building_short": null
   },
   {
-    "address": "Maximus-von-Imhof-Forum 6",
+    "address": "Maximus-von-Imhof-Forum 6; 85354 Freising",
     "building_code": "4214",
     "building_id": 681,
     "building_name": "Zentrales H\u00f6rsaalgeb\u00e4ude",
     "building_short": null
   },
   {
-    "address": "Maximus-von-Imhof-Forum 4",
+    "address": "Maximus-von-Imhof-Forum 4; 85354 Freising",
     "building_code": "4215",
     "building_id": 682,
     "building_name": "Zentrales Praktikageb\u00e4ude",
     "building_short": null
   },
   {
-    "address": "Maximus-von-Imhof-Forum 5",
+    "address": "Maximus-von-Imhof-Forum 5; 85354 Freising",
     "building_code": "4216",
     "building_id": 683,
     "building_name": "Mensa Weihenstephan",
     "building_short": "Mensa WZW"
   },
   {
-    "address": "Emil-Ramann-Str. 2",
+    "address": "Emil-Ramann-Str. 2; 85354 Freising",
     "building_code": "4217",
     "building_id": 684,
     "building_name": "Pflanzenproduktion 1",
     "building_short": null
   },
   {
-    "address": "Emil-Ramann-Str. 4",
+    "address": "Emil-Ramann-Str. 4; 85354 Freising",
     "building_code": "4218",
     "building_id": 685,
     "building_name": "Biologikum Weihenstephan",
     "building_short": null
   },
   {
-    "address": "Emil-Ramann-Str. 6",
+    "address": "Emil-Ramann-Str. 6; 85354 Freising",
     "building_code": "4219",
     "building_id": 686,
     "building_name": "Landschaft",
     "building_short": null
   },
   {
-    "address": "Maximus-von-Imhof-Forum 1+3",
+    "address": "Maximus-von-Imhof-Forum 1+3; 85354 Freising",
     "building_code": "4220",
     "building_id": 687,
-    "building_name": "Bibliothek Pressestelle Datenverarbeitung",
+    "building_name": "Bibliothek Pressestelle Datenverarbeitun",
     "building_short": null
   },
   {
-    "address": "Emil-Erlenmeyer-Forum 7",
+    "address": "Emil-Erlenmeyer-Forum 7; 85354 Freising",
     "building_code": "4221",
     "building_id": 688,
-    "building_name": "Fernmeldezentrale\n",
+    "building_name": "Fernmeldezentrale",
     "building_short": null
   },
   {
-    "address": "V\u00f6ttinger Str. 40",
+    "address": "V\u00f6ttinger Str. 40; 85354 Freising",
     "building_code": "4222",
     "building_id": 2929,
     "building_name": "Servicegeb\u00e4ude I",
     "building_short": null
   },
   {
-    "address": "Emil-Ramann-Str. 8",
+    "address": "Emil-Ramann-Str. 8; 85354 Freising",
     "building_code": "4223",
     "building_id": 689,
     "building_name": "Genetik",
     "building_short": null
   },
   {
-    "address": "Gregor-Mendel-Str. 2",
+    "address": "Gregor-Mendel-Str. 2; 85354 Freising",
     "building_code": "4224",
     "building_id": 690,
     "building_name": "ZIEL IV - Biowissenschaften",
     "building_short": null
   },
   {
-    "address": "Lise-Meitner-Str. 34",
+    "address": "Lise-Meitner-Str. 34; 85354 Freising",
     "building_code": "4225",
     "building_id": 1467,
     "building_name": "Lebensmittelchemie u.Molekulare Sensorik",
     "building_short": null
   },
   {
-    "address": "Gregor-Mendel-Str. 4",
+    "address": "Gregor-Mendel-Str. 4; 85354 Freising",
     "building_code": "4226",
     "building_id": 1160,
-    "building_name": "iGZW intern. Getr\u00e4nkewissenschaftliches Zentrum Weihenstephan",
+    "building_name": "iGZW intern.Getr\u00e4nkewissenschaftliches Z",
     "building_short": null
   },
   {
@@ -1848,21 +1848,21 @@
     "building_short": null
   },
   {
-    "address": null,
+    "address": "D\u00fcrnast 11; 85354 Freising",
     "building_code": "4230",
     "building_id": 903,
-    "building_name": "D\u00fcrnast Versuchsstation Tierst.\n",
+    "building_name": "D\u00fcrnast Versuchsstation Tierst.",
     "building_short": null
   },
   {
-    "address": "D\u00fcrnast 7",
+    "address": "D\u00fcrnast 7; 85354 Freising",
     "building_code": "4231",
     "building_id": 904,
     "building_name": "D\u00fcrnast I",
     "building_short": null
   },
   {
-    "address": "D\u00fcrnast 8",
+    "address": "D\u00fcrnast 8; 85354 Freising",
     "building_code": "4232",
     "building_id": 905,
     "building_name": "D\u00fcrnast II",
@@ -1876,98 +1876,98 @@
     "building_short": null
   },
   {
-    "address": "D\u00fcrnast 9",
+    "address": "D\u00fcrnast 9; 85354 Freising",
     "building_code": "4234",
     "building_id": 907,
     "building_name": "D\u00fcrnast III",
     "building_short": null
   },
   {
-    "address": "D\u00fcrnast 10",
+    "address": "D\u00fcrnast 10; 85354 Freising",
     "building_code": "4235",
     "building_id": 908,
     "building_name": "D\u00fcrnast IV",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "D\u00fcrnast 6; 85354 Freising",
     "building_code": "4236",
     "building_id": 902,
     "building_name": "D\u00fcrnast Wohnhaus",
     "building_short": null
   },
   {
-    "address": "D\u00fcrnast 3",
+    "address": "D\u00fcrnast 3; 85354 Freising",
     "building_code": "4237",
     "building_id": 887,
     "building_name": "D\u00fcrnast Werkdienstwohnung",
     "building_short": null
   },
   {
-    "address": "Emil-Erlenmeyer-Forum 2",
+    "address": "Emil-Erlenmeyer-Forum 2; 85354 Freising",
     "building_code": "4238",
     "building_id": 714,
     "building_name": "Werkfeuerwehr Weihenstephan",
     "building_short": null
   },
   {
-    "address": "Emil-Erlenmeyer-Forum 4",
+    "address": "Emil-Erlenmeyer-Forum 4; 85354 Freising",
     "building_code": "4239",
     "building_id": 667,
-    "building_name": "Kindergarten \"Krabbelstube Weihenstephan\"",
+    "building_name": "Kindergarten \"Krabbelstube Weihenstephan",
     "building_short": null
   },
   {
-    "address": "Emil-Erlenmeyer-Forum 6",
+    "address": "Emil-Erlenmeyer-Forum 6; 85354 Freising",
     "building_code": "4254",
     "building_id": 971,
     "building_name": "Dienstleister / Eltern-Kind",
     "building_short": null
   },
   {
-    "address": "Emil-Erlenmeyer-Forum 8",
+    "address": "Emil-Erlenmeyer-Forum 8; 85354 Freising",
     "building_code": "4259",
     "building_id": 2109,
     "building_name": "Salzlager",
     "building_short": null
   },
   {
-    "address": "Emil-Erlenmeyer-Forum 8",
+    "address": "Emil-Erlenmeyer-Forum 8; 85354 Freising",
     "building_code": "4264",
     "building_id": 993,
-    "building_name": "Protein Modelling",
+    "building_name": "Fachschaftenhaus",
     "building_short": null
   },
   {
-    "address": "Emil-Erlenmeyer-Forum 6",
+    "address": "Emil-Erlenmeyer-Forum 6; 85354 Freising",
     "building_code": "4267",
     "building_id": 2089,
     "building_name": "Feuerwache II",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "An der M\u00fchle 20; 85354 Freising",
     "building_code": "4275",
     "building_id": 1909,
     "building_name": "TUMmesa",
     "building_short": null
   },
   {
-    "address": "Hans-Carl-von-Carlowitz-Platz 2",
+    "address": "Hans-Carl-von-Carlowitz-Platz 2; 85354 Freising",
     "building_code": "4277",
     "building_id": 668,
     "building_name": "Forstwissenschaften",
     "building_short": null
   },
   {
-    "address": "Hans-Carl-von-Carlowitz-Platz 1",
+    "address": "Hans-Carl-von-Carlowitz-Platz 1; 85354 Freising",
     "building_code": "4278",
     "building_id": 728,
-    "building_name": "LWF Bay. Landesanstalt f\u00fcr Wald und Forstwirtschaft\n",
+    "building_name": "LWF Bay. Landesanstalt f\u00fcr Wald und Fors",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Hans-Carl-von-Carlowitz Platz 4; 85354 Freising",
     "building_code": "4279",
     "building_id": 2549,
     "building_name": "LWF Erweiterungsbau",
@@ -1981,7 +1981,7 @@
     "building_short": null
   },
   {
-    "address": "Am Staudengarten 1",
+    "address": "Am Staudengarten 1; 85354 Freising",
     "building_code": "4281",
     "building_id": 2152,
     "building_name": "HSWT",
@@ -1995,7 +1995,7 @@
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Hohenbachernstra\u00dfe 9; 85354 Freising",
     "building_code": "4299",
     "building_id": 1809,
     "building_name": "Hochschulgemeinde Freising",
@@ -2009,10 +2009,10 @@
     "building_short": null
   },
   {
-    "address": "Lange Point 51",
+    "address": "Lange Point 51; 85354 Freising",
     "building_code": "4304",
     "building_id": 670,
-    "building_name": "Verwaltung der TUM - Immobilien / Bauhof\n",
+    "building_name": "Verwaltung der TUM - Immobilien",
     "building_short": null
   },
   {
@@ -2030,38 +2030,38 @@
     "building_short": null
   },
   {
-    "address": "Liesel-Beckmann-Str. 6",
+    "address": "Liesel-Beckmann-Str. 6; 85354 Freising",
     "building_code": "4307",
     "building_id": 673,
-    "building_name": "Dienstleistergeb\u00e4ude\n",
+    "building_name": "Dienstleistergeb\u00e4ude",
     "building_short": null
   },
   {
-    "address": "Liesel-Beckmann-Str. 4",
+    "address": "Liesel-Beckmann-Str. 4; 85354 Freising",
     "building_code": "4308",
     "building_id": 674,
-    "building_name": "Humanbiologie Zoologie\n",
+    "building_name": "Humanbiologie Zoologie",
     "building_short": null
   },
   {
-    "address": "Blumenstr. 16",
+    "address": "Blumenstr. 16; 85354 Freising",
     "building_code": "4309",
     "building_id": 675,
-    "building_name": "Inst. Geb. Wirschaftslehre d. Gartenbaus\n",
+    "building_name": "Inst. Geb. Wirschaftslehre d. Gartenbaus",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Blumenstr. 16; 85354 Freising",
     "building_code": "4310",
     "building_id": 676,
-    "building_name": "Werkst. u. Garagen Zierpflanzenbau\n",
+    "building_name": "Werkst. u. Garagen Zierpflanzenbau",
     "building_short": null
   },
   {
-    "address": "Blumenstr. 16",
+    "address": "Blumenstr. 16; 85354 Freising",
     "building_code": "4311",
     "building_id": 677,
-    "building_name": "Inst. Zierplanzenbau\n",
+    "building_name": "Inst. Zierplanzenbau",
     "building_short": null
   },
   {
@@ -2079,185 +2079,185 @@
     "building_short": null
   },
   {
-    "address": "Am Staudengarten",
+    "address": "Am Staudengarten; 85354 Freising",
     "building_code": "4314",
     "building_id": 886,
-    "building_name": "Trafostation VII",
+    "building_name": "Trafostation  VII",
     "building_short": null
   },
   {
-    "address": "Lange Point 51",
+    "address": "Lange Point 51; 85354 Freising",
     "building_code": "4315",
     "building_id": 658,
-    "building_name": "Lagerhalle (Stra\u00dfenseite)\n",
+    "building_name": "Lagerhalle (Stra\u00dfenseite)",
     "building_short": null
   },
   {
-    "address": "Lange Point 51",
+    "address": "Lange Point 51; 85354 Freising",
     "building_code": "4316",
     "building_id": 2512,
-    "building_name": "Lagerhalle (Feldseite)\n",
+    "building_name": "Lagerhalle (Feldseite)",
     "building_short": null
   },
   {
-    "address": "Liesel-Beckmann-Str. 1",
+    "address": "Liesel-Beckmann-Str. 1; 85354 Freising",
     "building_code": "4317",
     "building_id": 657,
     "building_name": "Tierwissenschaften",
     "building_short": null
   },
   {
-    "address": "Liesel-Beckmann-Str. 2",
+    "address": "Liesel-Beckmann-Str. 2; 85354 Freising",
     "building_code": "4318",
     "building_id": 1161,
-    "building_name": "HEZ Hans-Eisenmann-Zentrum f\u00fcr Agrarwissenschaften",
+    "building_name": "HEZ Hans-Eisenmann-Zentrum f\u00fcr Agrarwiss",
     "building_short": null
   },
   {
-    "address": "Liesel-Beckmann-Str.",
+    "address": "Liesel-Beckmann-Str.; 85354 Freising",
     "building_code": "4319",
     "building_id": 1505,
     "building_name": "Trafostation VI",
     "building_short": null
   },
   {
-    "address": "Lange Point 20+22",
+    "address": "Lange Point 20+22; 85354 Freising",
     "building_code": "4320",
     "building_id": 2329,
     "building_name": "Energiezentrale Heizhaus",
     "building_short": null
   },
   {
-    "address": "Lange Point 24",
+    "address": "Lange Point 24; 85354 Freising",
     "building_code": "4321",
     "building_id": 654,
-    "building_name": "GM Verwaltung\n",
+    "building_name": "GM Verwaltung",
     "building_short": null
   },
   {
-    "address": "Lange Point 24",
+    "address": "Lange Point 24; 85354 Freising",
     "building_code": "4322",
     "building_id": 655,
     "building_name": "GMTrafostation XV / Carport",
     "building_short": null
   },
   {
-    "address": "Lange Point 24",
+    "address": "Lange Point 24; 85354 Freising",
     "building_code": "4323",
     "building_id": 656,
-    "building_name": "GM KFZ Werkstatt\n",
+    "building_name": "GM KFZ Werkstatt",
     "building_short": null
   },
   {
-    "address": "Lange Point 20+22",
+    "address": "Lange Point 20+22; 85354 Freising",
     "building_code": "4324",
     "building_id": 659,
-    "building_name": "GM Garage / Werkdienstwohnungen\n",
+    "building_name": "GM Garage / Werkdienstwohnungen",
     "building_short": null
   },
   {
-    "address": "Lange Point 24",
+    "address": "Lange Point 24; 85354 Freising",
     "building_code": "4325",
     "building_id": 2349,
-    "building_name": "GM Wertstoffhof\n",
+    "building_name": "GM Wertstoffhof",
     "building_short": null
   },
   {
-    "address": "Lange Point 4",
+    "address": "Lange Point 4; 85354 Freising",
     "building_code": "4353",
     "building_id": 2173,
-    "building_name": "LfL Laborgeb\u00e4ude 1\n",
+    "building_name": "LfL Laborgeb\u00e4ude 1",
     "building_short": null
   },
   {
-    "address": "Zur Kreutzbreite 4",
+    "address": "Zur Kreutzbreite 4; 85354 Freising",
     "building_code": "4355",
     "building_id": 2169,
-    "building_name": "LfL Technologie VI\n",
+    "building_name": "LfL Technologie VI",
     "building_short": null
   },
   {
-    "address": "Am Gereuth 5",
+    "address": "Am Gereuth 5; 85354 Freising",
     "building_code": "4361",
     "building_id": 2174,
-    "building_name": "LfL Technologie V\n",
+    "building_name": "LfL Technologie V",
     "building_short": null
   },
   {
-    "address": "Lange Point 10",
+    "address": "Lange Point 10; 85354 Freising",
     "building_code": "4362",
     "building_id": 2172,
-    "building_name": "LfL Mehrzweckgeb\u00e4ude 1\n",
+    "building_name": "LfL Mehrzweckgeb\u00e4ude 1",
     "building_short": null
   },
   {
-    "address": "Am Gereuth 6",
+    "address": "Am Gereuth 6; 85354 Freising",
     "building_code": "4368",
     "building_id": 2171,
-    "building_name": "LfL Technologie III\n",
+    "building_name": "LfL Technologie III",
     "building_short": null
   },
   {
-    "address": "Wippenhauserstr. 51",
+    "address": "Wippenhauserstr. 51; 85354 Freising",
     "building_code": "4387",
     "building_id": 2150,
     "building_name": "Camerloher Gymnasium",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Hofmark 3; 82393 Iffeldorf",
     "building_code": "4401",
     "building_id": 650,
     "building_name": "Limnologische Station",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Hofmark 3; 82393 Iffeldorf",
     "building_code": "4402",
     "building_id": 651,
     "building_name": "Bootshaus",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Hofmark 3; 82393 Iffeldorf",
     "building_code": "4403",
     "building_id": 649,
-    "building_name": "Limnologische Station Geb\u00e4ude 2\n",
+    "building_name": "Limnologische Station Geb\u00e4ude 2",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Hofmark 3; 82393 Iffeldorf",
     "building_code": "4404",
     "building_id": 647,
     "building_name": "Limnologische Station Seminargeb\u00e4ude",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Hofmark 3; 82393 Iffeldorf",
     "building_code": "4405",
     "building_id": 648,
     "building_name": "Limnologische Station Remise",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "D\u00fcrnast 1-2; 85354 Freising",
     "building_code": "4501",
     "building_id": 888,
     "building_name": "D\u00fcrnast Arbeiterwohngeb\u00e4ude STG.WST.",
     "building_short": null
   },
   {
-    "address": "D\u00fcrnast 1",
+    "address": "D\u00fcrnast 1; 85354 Freising",
     "building_code": "4502",
     "building_id": 889,
-    "building_name": "D\u00fcrnast Werkstattgeb\u00e4ude-Wirt. Geb. STG.WST.\n",
+    "building_name": "D\u00fcrnast Werkstattgeb\u00e4ude-Wirt. Geb. STG.",
     "building_short": null
   },
   {
-    "address": "D\u00fcrnast 4-5",
+    "address": "D\u00fcrnast 4-5; 85354 Freising",
     "building_code": "4503",
     "building_id": 890,
-    "building_name": "D\u00fcrnast -Verw.-, WGB., RS., S.-STG.WST.\n",
+    "building_name": "D\u00fcrnast -Verw.-, WGB., RS., S.-STG.WST.",
     "building_short": null
   },
   {
@@ -2268,17 +2268,17 @@
     "building_short": null
   },
   {
-    "address": null,
+    "address": "D\u00fcrnast 5; 85354 Freising",
     "building_code": "4505",
     "building_id": 892,
-    "building_name": "D\u00fcrnast Maschinenhalle STG.WST.-Kart, Lager, 2 SST\n",
+    "building_name": "D\u00fcrnast Maschinenhalle STG.WST.-Kart, La",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "D\u00fcrnast 5; 85354 Freising",
     "building_code": "4506",
     "building_id": 893,
-    "building_name": "D\u00fcrnast Schuppen STG.WST.\n",
+    "building_name": "D\u00fcrnast Schuppen STG.WST.",
     "building_short": null
   },
   {
@@ -2289,24 +2289,24 @@
     "building_short": null
   },
   {
-    "address": null,
+    "address": "D\u00fcrnast 1; 85354 Freising",
     "building_code": "4508",
     "building_id": 897,
-    "building_name": "D\u00fcrnast Wagenh. m. Fuhrw. W. STG.WST.\n",
+    "building_name": "D\u00fcrnast Wagenh. m. Fuhrw. W. STG.WST.",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Staatsgut Weihenstephan; 85354 Freising",
     "building_code": "4509",
     "building_id": 898,
-    "building_name": "D\u00fcrnast Fahrsilo-G\u00fcllebeh\u00e4lter STG.WST.\n",
+    "building_name": "D\u00fcrnast Fahrsilo-G\u00fcllebeh\u00e4lter STG.WST.",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "D\u00fcrnast 1; 85354 Freising",
     "building_code": "4510",
     "building_id": 899,
-    "building_name": "D\u00fcrnast Getreidekasten STG.WST.\n",
+    "building_name": "D\u00fcrnast Getreidekasten STG.WST.",
     "building_short": null
   },
   {
@@ -2317,45 +2317,45 @@
     "building_short": null
   },
   {
-    "address": "D\u00fcrnast 5",
+    "address": "D\u00fcrnast 5; 85354 Freising",
     "building_code": "4512",
     "building_id": 2029,
-    "building_name": "D\u00fcrnast Ger\u00e4tehalle West\n",
+    "building_name": "D\u00fcrnast Ger\u00e4tehalle West",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "D\u00fcrnast 5; 85354 Freising",
     "building_code": "4513",
     "building_id": 2030,
-    "building_name": "D\u00fcrnast Ger\u00e4tehalle Ost\n",
+    "building_name": "D\u00fcrnast Ger\u00e4tehalle Ost",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Viehhausen 4; 85402 Kranzberg",
     "building_code": "4521",
     "building_id": 900,
-    "building_name": "Viehhausen Mehrzweckhalle STG.WST.\n",
+    "building_name": "Viehhausen Maschinenhalle",
     "building_short": null
   },
   {
-    "address": "Viehhausen 4",
+    "address": "Viehhausen 4; 85402 Kranzberg",
     "building_code": "4522",
     "building_id": 901,
-    "building_name": "Viehhausen Landwirtschafliche Freifl\u00e4che STG.WST.\n",
+    "building_name": "Viehhausen Landwirtschafliche Freifl\u00e4che",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Viehhausen 4; 85402 Kranzberg",
     "building_code": "4523",
     "building_id": 894,
-    "building_name": "Viehhausen H\u00fchnerstall STG.WST.\n",
+    "building_name": "Viehhausen Mehrzweckhalle",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Viehhausen 4; 85402 Kranzberg",
     "building_code": "4524",
     "building_id": 895,
-    "building_name": "Viehhausen Tankstelle Viehhof STG.WST.\n",
+    "building_name": "Viehhausen Tankstelle Viehhof STG.WST.",
     "building_short": null
   },
   {
@@ -2366,28 +2366,28 @@
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Staatsgut Thalhausen; 85402 Kranzberg",
     "building_code": "4601",
     "building_id": 737,
-    "building_name": "VST.Thalh.-Wohngeb\u00e4ude",
+    "building_name": "VST.Thalh.-Wohngeb\u00e4ude (Wohnhaus 1-3)",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Staatsgut Thalhausen; 85402 Kranzberg",
     "building_code": "4602",
     "building_id": 738,
-    "building_name": "VST.Thalh.-Zentralgeb\u00e4ude",
+    "building_name": "VST.Thalh.-Zentralgeb\u00e4ude (Verwaltung)",
     "building_short": null
   },
   {
-    "address": "Staatsgut Thalhausen",
+    "address": "Staatsgut Thalhausen; 85402 Kranzberg",
     "building_code": "4603",
     "building_id": 739,
-    "building_name": "VST.Thalh.-Betriebsgeb\u00e4ude",
+    "building_name": "VST.Thalh.-Betriebsgeb\u00e4ude (Werkstattgeb",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Staatsgut Thalhausen; 85402 Kranzberg",
     "building_code": "4604",
     "building_id": 740,
     "building_name": "VST.Thalh.-Maschinenhalle",
@@ -2401,7 +2401,7 @@
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Staatsgut Thalhausen; 85402 Kranzberg",
     "building_code": "4606",
     "building_id": 742,
     "building_name": "VST.Thalh.-Futterzentrale",
@@ -2471,14 +2471,14 @@
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Staatsgut Thalhausen; 85402 Kranzberg",
     "building_code": "4616",
     "building_id": 734,
     "building_name": "VST.Thalh.-G\u00fcllebeh\u00e4lter",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Staatsgut Thalhausen; 85402 Kranzberg",
     "building_code": "4620",
     "building_id": 735,
     "building_name": "VST.Thalh.-Versuchsfelder",
@@ -2618,161 +2618,161 @@
     "building_short": null
   },
   {
-    "address": "Acheringer Hauptstr. 32a",
+    "address": "Acheringer Hauptstr. 32a; 85354 Freising",
     "building_code": "4800",
     "building_id": 2589,
-    "building_name": "Halle Achering",
+    "building_name": "Halle Achering (M\u00fchlich)",
     "building_short": null
   },
   {
-    "address": "Staatsgut Gr\u00fcnschwaige",
+    "address": "Staatsgut Gr\u00fcnschwaige; 85462 Eitting",
     "building_code": "4801",
     "building_id": 780,
     "building_name": "VSG.Gr\u00fcnschw.-Verwaltungsgeb\u00e4ude",
     "building_short": null
   },
   {
-    "address": "Staatsgut Gr\u00fcnschwaige",
+    "address": "Staatsgut Gr\u00fcnschwaige; 85462 Eitting",
     "building_code": "4802",
     "building_id": 779,
     "building_name": "VSG.Gr\u00fcnschw.-Mehrzweckhalle",
     "building_short": null
   },
   {
-    "address": "Staatsgut Gr\u00fcnschwaige",
+    "address": "Staatsgut Gr\u00fcnschwaige; 85462 Eitting",
     "building_code": "4803",
     "building_id": 766,
     "building_name": "VSG.Gr\u00fcnschw.-Schweinestall",
     "building_short": null
   },
   {
-    "address": "Staatsgut Gr\u00fcnschwaige",
+    "address": "Staatsgut Gr\u00fcnschwaige; 85462 Eitting",
     "building_code": "4804",
     "building_id": 767,
     "building_name": "VSG.Gr\u00fcnschw.-Getreidelager",
     "building_short": null
   },
   {
-    "address": "Staatsgut Gr\u00fcnschwaige",
+    "address": "Staatsgut Gr\u00fcnschwaige; 85462 Eitting",
     "building_code": "4805",
     "building_id": 768,
     "building_name": "VSG.Gr\u00fcnschw.-Futtersilo",
     "building_short": null
   },
   {
-    "address": "Staatsgut Gr\u00fcnschwaige",
+    "address": "Staatsgut Gr\u00fcnschwaige; 85462 Eitting",
     "building_code": "4806",
     "building_id": 769,
     "building_name": "VSG.Gr\u00fcnschw.-Schafstall",
     "building_short": null
   },
   {
-    "address": "Staatsgut Gr\u00fcnschwaige",
+    "address": "Staatsgut Gr\u00fcnschwaige; 85462 Eitting",
     "building_code": "4807",
     "building_id": 770,
     "building_name": "VSG.Gr\u00fcnschw.-Lagerscheune",
     "building_short": null
   },
   {
-    "address": "Staatsgut Gr\u00fcnschwaige",
+    "address": "Staatsgut Gr\u00fcnschwaige; 85462 Eitting",
     "building_code": "4808",
     "building_id": 771,
     "building_name": "VSG.Gr\u00fcnschw.-Stallgeb\u00e4ude",
     "building_short": null
   },
   {
-    "address": "Staatsgut Gr\u00fcnschwaige",
+    "address": "Staatsgut Gr\u00fcnschwaige; 85462 Eitting",
     "building_code": "4809",
     "building_id": 772,
     "building_name": "VSG.Gr\u00fcnschw.-Ger\u00e4tescheune",
     "building_short": null
   },
   {
-    "address": "Staatsgut Gr\u00fcnschwaige",
+    "address": "Staatsgut Gr\u00fcnschwaige; 85462 Eitting",
     "building_code": "4810",
     "building_id": 773,
     "building_name": "VSG.Gr\u00fcnschw.-Strohscheune",
     "building_short": null
   },
   {
-    "address": "Staatsgut Gr\u00fcnschwaige",
+    "address": "Staatsgut Gr\u00fcnschwaige; 85462 Eitting",
     "building_code": "4811",
     "building_id": 774,
     "building_name": "VSG.Gr\u00fcnschw.-Strohscheune",
     "building_short": null
   },
   {
-    "address": "Staatsgut Gr\u00fcnschwaige",
+    "address": "Staatsgut Gr\u00fcnschwaige; 85462 Eitting",
     "building_code": "4812",
     "building_id": 775,
     "building_name": "VSG.Gr\u00fcnschw.-Maschinenhalle",
     "building_short": null
   },
   {
-    "address": "Staatsgut Gr\u00fcnschwaige",
+    "address": "Staatsgut Gr\u00fcnschwaige; 85462 Eitting",
     "building_code": "4813",
     "building_id": 776,
     "building_name": "VSG.Gr\u00fcnschw.-Baur-Haus",
     "building_short": null
   },
   {
-    "address": "Staatsgut Gr\u00fcnschwaige",
+    "address": "Staatsgut Gr\u00fcnschwaige; 85462 Eitting",
     "building_code": "4814",
     "building_id": 777,
     "building_name": "VSG.Gr\u00fcnschw.-Fahrsilo",
     "building_short": null
   },
   {
-    "address": "Staatsgut Gr\u00fcnschwaige",
+    "address": "Staatsgut Gr\u00fcnschwaige; 85462 Eitting",
     "building_code": "4815",
     "building_id": 778,
     "building_name": "VSG.Gr\u00fcnschw.-Grastrockner",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Oberroggenstein 1; 82223 Eichenau",
     "building_code": "4901",
     "building_id": 634,
     "building_name": "VSG.Roggst.-2Wgb, Verw., VTS",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Oberroggenstein 1; 82223 Eichenau",
     "building_code": "4902",
     "building_id": 635,
     "building_name": "VSG.Roggst.-Doktor. Haus",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Oberroggenstein 1; 82223 Eichenau",
     "building_code": "4903",
     "building_id": 636,
     "building_name": "VSG.Roggst.-Schw.St., Wirtg.",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Unterroggenstein 1-3; 82275 Emmering",
     "building_code": "4907",
     "building_id": 637,
     "building_name": "VSG.Roggst.-Wirtschaftsgeb\u00e4ude",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Unterroggenstein 1-3; 82275 Emmering",
     "building_code": "4908",
     "building_id": 638,
     "building_name": "VSG.Roggst.-Wagenremise",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Unterroggenstein 1-3; 82275 Emmering",
     "building_code": "4909",
     "building_id": 639,
     "building_name": "VSG.Roggst.-Maschinen, D\u00fcnger",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Unterroggenstein 1-3; 82275 Emmering",
     "building_code": "4910",
     "building_id": 640,
     "building_name": "VSG.Roggenst.-Getreidesilo",
@@ -2793,21 +2793,21 @@
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Roggensteiner Stra\u00dfe 187; 82140 Olching",
     "building_code": "4914",
     "building_id": 643,
     "building_name": "VSG.Roggst.-Arb.Gba. 1, SCHP",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Roggensteiner Stra\u00dfe 189; 82140 Olching",
     "building_code": "4915",
     "building_id": 632,
     "building_name": "VSG.Roggst.-Arb.Gba. 2, SCHP",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Roggensteiner Stra\u00dfe 193; 82140 Olching",
     "building_code": "4916",
     "building_id": 629,
     "building_name": "VSG.Roggst.-Arb.Gba. 3, SCHP",
@@ -2821,31 +2821,31 @@
     "building_short": null
   },
   {
-    "address": "Oberroggenstein 1",
+    "address": "Oberroggenstein 1; 82223 Eichenau",
     "building_code": "4920",
     "building_id": 631,
     "building_name": "Kapelle",
     "building_short": null
   },
   {
-    "address": "James-Franck-Str. 1",
+    "address": "James-Franck-Str. 1; 85748 Garching b. M\u00fcnchen",
     "building_code": "5101",
     "building_id": 785,
     "building_name": "Physik I",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 10",
+    "address": "Boltzmannstr. 10; 85748 Garching b. M\u00fcnchen",
     "building_code": "5103",
     "building_id": 786,
-    "building_name": "Betriebsgeb\u00e4ude / Verwaltung",
+    "building_name": "Betriebsgeb\u00e4ude II",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Boltzmannstr. 16; 85748 Garching b. M\u00fcnchen",
     "building_code": "5104",
     "building_id": 787,
-    "building_name": "RCM-Technikum\n",
+    "building_name": "RCM-Technikum",
     "building_short": null
   },
   {
@@ -2863,21 +2863,21 @@
     "building_short": null
   },
   {
-    "address": "Am Coulombwall 2",
+    "address": "Am Coulombwall 2; 85748 Garching b. M\u00fcnchen",
     "building_code": "5107",
     "building_id": 789,
     "building_name": "Physik II",
     "building_short": null
   },
   {
-    "address": "James-Franck-Str. 1",
+    "address": "James-Franck-Str. 1; 85748 Garching b. M\u00fcnchen",
     "building_code": "5108",
     "building_id": 781,
-    "building_name": "Physik II Messbunker",
+    "building_name": "Physik II Messbunker UGL,ISL,TOM",
     "building_short": null
   },
   {
-    "address": "Am Coulombwall 1",
+    "address": "Am Coulombwall 1; 85748 Garching b. M\u00fcnchen",
     "building_code": "5109",
     "building_id": 872,
     "building_name": "Physik LMU",
@@ -2891,49 +2891,49 @@
     "building_short": null
   },
   {
-    "address": "Am Coulombwall 3",
+    "address": "Am Coulombwall 3; 85748 Garching b. M\u00fcnchen",
     "building_code": "5111",
     "building_id": 790,
-    "building_name": "Siedlungswasserwirtschaft\n",
+    "building_name": "Siedlungswasserwirtschaft",
     "building_short": null
   },
   {
-    "address": "Am Coulombwall 4",
+    "address": "Am Coulombwall 4; 85748 Garching b. M\u00fcnchen",
     "building_code": "5112",
     "building_id": 791,
     "building_name": "Walter-Schottky-Institut",
     "building_short": null
   },
   {
-    "address": "Am Coulombwall 4a",
+    "address": "Am Coulombwall 4a; 85748 Garching b. M\u00fcnchen",
     "building_code": "5115",
     "building_id": 1080,
-    "building_name": "Zentrum f\u00fcr Nanotechnologie & -materialien",
+    "building_name": "Zentrum f\u00fcr Nanotechnologie & -materiali",
     "building_short": null
   },
   {
-    "address": "Am Coulombwall 4a",
+    "address": "Am Coulombwall 4a; 85748 Garching b. M\u00fcnchen",
     "building_code": "5116",
     "building_id": 1100,
     "building_name": "Trafostation des ZNN",
     "building_short": null
   },
   {
-    "address": "Paula-Hahn-Weinheimerstr. 1",
+    "address": "Paula-Hahn-Weinheimerstr. 1; 85748 Garching b. M\u00fcnchen",
     "building_code": "5117",
     "building_id": 3369,
     "building_name": "Verf\u00fcgungsgeb\u00e4ude PH",
     "building_short": null
   },
   {
-    "address": "Am Coulombwall 6",
+    "address": "Am Coulombwall 6; 85748 Garching b. M\u00fcnchen",
     "building_code": "5120",
     "building_id": 873,
-    "building_name": "Beschleuniger LMU",
+    "building_name": "Physik Beschleuniger LMU",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Am Coulombwall 6; 85748 Garching b. M\u00fcnchen",
     "building_code": "5121",
     "building_id": 874,
     "building_name": "Atlashalle LMU",
@@ -2947,49 +2947,49 @@
     "building_short": null
   },
   {
-    "address": "Am Coulombwall 1",
+    "address": "Am Coulombwall 1; 85748 Garching b. M\u00fcnchen",
     "building_code": "5123",
     "building_id": 875,
     "building_name": "Physik Werkstattgeb\u00e4ude LMU",
     "building_short": null
   },
   {
-    "address": "James-Franck-Str. 1",
+    "address": "James-Franck-Str. 1; 85748 Garching b. M\u00fcnchen",
     "building_code": "5124",
     "building_id": 792,
     "building_name": "WSI Container",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Am Coloumbwall 1a; 85748 Garching b. M\u00fcnchen",
     "building_code": "5125",
     "building_id": 1425,
-    "building_name": "LEX (LMU)",
+    "building_name": "LEX  (LMU)",
     "building_short": null
   },
   {
-    "address": "Am Coloumbwall 1b",
+    "address": "Am Coloumbwall 1b; 85748 Garching b. M\u00fcnchen",
     "building_code": "5126",
     "building_id": 2069,
     "building_name": "CALA (LMU)",
     "building_short": null
   },
   {
-    "address": "Am Coulombwall 3A",
+    "address": "Am Coulombwall 3A; 85748 Garching b. M\u00fcnchen",
     "building_code": "5128",
     "building_id": 3329,
     "building_name": "Zentrum f. Quantum Engineering",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 10a",
+    "address": "Boltzmannstr. 10a; 85748 Garching b. M\u00fcnchen",
     "building_code": "5130",
     "building_id": 783,
     "building_name": "Telefonzentrale",
     "building_short": null
   },
   {
-    "address": "Boltzmannstra\u00dfe 10b",
+    "address": "Boltzmannstr. 10b; 85748 Garching b. M\u00fcnchen",
     "building_code": "5131",
     "building_id": 1609,
     "building_name": "FRM-Poststelle (Container)",
@@ -3003,28 +3003,28 @@
     "building_short": null
   },
   {
-    "address": "James-Frank-Str. 1",
+    "address": "James-Frank-Str. 1; 85748 Garching b. M\u00fcnchen",
     "building_code": "5140",
     "building_id": 1365,
     "building_name": "PH I Container",
     "building_short": null
   },
   {
-    "address": "Paula-Hahn-Weinheimer-Str. 4",
+    "address": "Paula-Hahn-Weinheimer-Str. 4; 85748 Garching b. M\u00fcnchen",
     "building_code": "5142",
     "building_id": 2289,
     "building_name": "Parkhaus P1",
     "building_short": null
   },
   {
-    "address": "Paula-Hahn-Weinheimer-Str. 2",
+    "address": "Paula-Hahn-Weinheimer-Str. 2; 85748 Garching b. M\u00fcnchen",
     "building_code": "5143",
     "building_id": 2429,
     "building_name": "Versorgungsstation PH",
     "building_short": null
   },
   {
-    "address": "Am Coulombwall 6",
+    "address": "Am Coulombwall 6; 85748 Garching b. M\u00fcnchen",
     "building_code": "5160",
     "building_id": 1870,
     "building_name": "UCN-Testanlage (Container)",
@@ -3038,21 +3038,21 @@
     "building_short": "UYL"
   },
   {
-    "address": "Lichtenbergstr. 1",
+    "address": "Lichtenbergstr. 1; 85748 Garching b. M\u00fcnchen",
     "building_code": "5202",
     "building_id": 784,
     "building_name": "Flachbau 2+3 (Zyklotron)",
     "building_short": null
   },
   {
-    "address": "Walther-Mei\u00dfner-Str. 1",
+    "address": "Walther-Mei\u00dfner-Str. 1; 85748 Garching b. M\u00fcnchen",
     "building_code": "5203",
     "building_id": 794,
     "building_name": "B\u00fcrogeb\u00e4ude",
     "building_short": null
   },
   {
-    "address": "Walther-Mei\u00dfner-Str. 4",
+    "address": "Walther-Mei\u00dfner-Str. 4; 85748 Garching b. M\u00fcnchen",
     "building_code": "5204",
     "building_id": 795,
     "building_name": "Umformtechnik und Gie\u00dfereiwesen (MW25)",
@@ -3094,10 +3094,10 @@
     "building_short": null
   },
   {
-    "address": "Walther-Mei\u00dfner-Str. 3",
+    "address": "Walther-Mei\u00dfner-Str. 3; 85748 Garching b. M\u00fcnchen",
     "building_code": "5212",
     "building_id": 883,
-    "building_name": "Radiochemie",
+    "building_name": "RCM-Hauptbau",
     "building_short": null
   },
   {
@@ -3129,10 +3129,10 @@
     "building_short": null
   },
   {
-    "address": "Walther-Mei\u00dfner-Str. 2",
+    "address": "Walther-Mei\u00dfner-Str. 2; 85748 Garching b. M\u00fcnchen",
     "building_code": "5219",
     "building_id": 856,
-    "building_name": "Instituts-u. Verwaltungsgeb\u00e4ude",
+    "building_name": "Verwaltung der TUM",
     "building_short": null
   },
   {
@@ -3255,17 +3255,17 @@
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Walther-Mei\u00dfner-Str. 3; 85748 Garching b. M\u00fcnchen",
     "building_code": "5251",
     "building_id": 881,
     "building_name": "RCM-Abwassergeb\u00e4ude",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Walther-Mei\u00dfner-Str. 3; 85748 Garching b. M\u00fcnchen",
     "building_code": "5252",
     "building_id": 882,
-    "building_name": "RCM-Gasversorgung",
+    "building_name": "RCM-Gasversorgungsstation",
     "building_short": null
   },
   {
@@ -3283,14 +3283,14 @@
     "building_short": null
   },
   {
-    "address": "Lichtenbergstr. 1",
+    "address": "Lichtenbergstr. 1; 85748 Garching b. M\u00fcnchen",
     "building_code": "5257",
     "building_id": 2449,
     "building_name": "Werkstatt u. B\u00fcrogeb\u00e4ude FRM II (UYW)",
     "building_short": null
   },
   {
-    "address": "Walther-Mei\u00dfner-Str. 3",
+    "address": "Walther-Mei\u00dfner-Str. 3; 85748 Garching b. M\u00fcnchen",
     "building_code": "5268",
     "building_id": 1830,
     "building_name": "RCM-BMA/ELA-Container",
@@ -3311,59 +3311,59 @@
     "building_short": null
   },
   {
-    "address": "Lichtenbergstr. 2a",
+    "address": "Lichtenbergstr. 2a; 85748 Garching b. M\u00fcnchen",
     "building_code": "5301",
     "building_id": 1120,
     "building_name": "IAS, Institut f\u00fcr Advanced Study",
     "building_short": null
   },
   {
-    "address": "Lichtenbergstr. 2",
+    "address": "Lichtenbergstr. 2; 85748 Garching b. M\u00fcnchen",
     "building_code": "5302",
     "building_id": 816,
-    "building_name": "Mensa Garching",
+    "building_name": "CBM Centrum Baustoffe und Materialpr\u00fcfun",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 19",
+    "address": "Boltzmannstr. 19; 85748 Garching b. M\u00fcnchen",
     "building_code": "5304",
     "building_id": 2009,
     "building_name": "Mensa Garching (Neubau)",
     "building_short": null
   },
   {
-    "address": "Lichtenbergstr. 2c",
+    "address": "Lichtenbergstr. 2c; 85748 Garching b. M\u00fcnchen",
     "building_code": "5305",
     "building_id": 3209,
     "building_name": "Modulbau NDB 2",
     "building_short": null
   },
   {
-    "address": "Lichtenbergstr. 4",
+    "address": "Lichtenbergstr. 4; 85748 Garching b. M\u00fcnchen",
     "building_code": "5401",
     "building_id": 818,
-    "building_name": "CH Bibliothek, H\u00f6rsaal CH 1",
+    "building_name": "Bibliothek, H\u00f6rsaal CH 1",
     "building_short": null
   },
   {
-    "address": "Lichtenbergstr. 4",
+    "address": "Lichtenbergstr. 4; 85748 Garching b. M\u00fcnchen",
     "building_code": "5402",
     "building_id": 819,
-    "building_name": "CH Laborgeb\u00e4ude CH 2",
+    "building_name": "Laborgeb\u00e4ude CH 2",
     "building_short": null
   },
   {
-    "address": "Lichtenbergstr. 4",
+    "address": "Lichtenbergstr. 4; 85748 Garching b. M\u00fcnchen",
     "building_code": "5403",
     "building_id": 821,
-    "building_name": "CH Laborgeb\u00e4ude CH 3",
+    "building_name": "Laborgeb\u00e4ude CH 3",
     "building_short": null
   },
   {
-    "address": "Lichtenbergstr. 4",
+    "address": "Lichtenbergstr. 4; 85748 Garching b. M\u00fcnchen",
     "building_code": "5404",
     "building_id": 815,
-    "building_name": "CH Hofgeb\u00e4ude 2",
+    "building_name": "Hofgeb\u00e4ude 2",
     "building_short": null
   },
   {
@@ -3374,168 +3374,175 @@
     "building_short": null
   },
   {
-    "address": "Lichtenbergstr. 4",
+    "address": "Lichtenbergstr. 4; 85748 Garching b. M\u00fcnchen",
     "building_code": "5406",
     "building_id": 824,
-    "building_name": "CH Laborgeb\u00e4ude CH 6",
+    "building_name": "Laborgeb\u00e4ude CH 6",
     "building_short": null
   },
   {
-    "address": "Lichtenbergstr. 4",
+    "address": "Lichtenbergstr. 4; 85748 Garching b. M\u00fcnchen",
     "building_code": "5407",
     "building_id": 826,
-    "building_name": "CH Laborgeb\u00e4ude CH 7",
+    "building_name": "Laborgeb\u00e4ude CH 7",
     "building_short": null
   },
   {
-    "address": "Lichtenbergstr. 4",
+    "address": "Lichtenbergstr. 4; 85748 Garching b. M\u00fcnchen",
     "building_code": "5408",
     "building_id": 828,
-    "building_name": "CH Hofgeb\u00e4ude 1",
+    "building_name": "Hofgeb\u00e4ude 1",
     "building_short": null
   },
   {
-    "address": "Ernst-Otto-Fischer-Str. 4",
+    "address": "Ernst-Otto-Fischer-Str. 4; 85748 Garching b. M\u00fcnchen",
     "building_code": "5409",
     "building_id": 830,
-    "building_name": "CH Umf\u00fcllstation / Sonderm\u00fcll",
+    "building_name": "Entsorgungszentrum",
     "building_short": null
   },
   {
-    "address": "Ernst-Otto-Fischer-Str. 1",
+    "address": "Ernst-Otto-Fischer-Str. 1; 85748 Garching b. M\u00fcnchen",
     "building_code": "5410",
     "building_id": 1405,
     "building_name": "Katalysezentrum",
     "building_short": "CRC"
   },
   {
-    "address": "Ernst-Otto-Fischer-Str. 2",
+    "address": "Ernst-Otto-Fischer-Str. 2; 85748 Garching b. M\u00fcnchen",
     "building_code": "5413",
     "building_id": 1989,
     "building_name": "Bayerisches NMR-Zentrum",
     "building_short": "BNMRZ"
   },
   {
-    "address": "Lichtenbergstr. 4a",
+    "address": "Lichtenbergstr. 4a; 85748 Garching b. M\u00fcnchen",
     "building_code": "5414",
     "building_id": 1670,
     "building_name": "Zentrum f\u00fcr Energie u. Information (ZEI)",
     "building_short": "ZEI"
   },
   {
-    "address": "Ernst-Otto-Fischer-Str. 8",
+    "address": "Ernst-Otto-Fischer-Str. 8; 85748 Garching b. M\u00fcnchen",
     "building_code": "5415",
     "building_id": 2729,
-    "building_name": "CPA Center for Functional Protein Assembly",
+    "building_name": "CPA Center for Functional Protein Assemb",
     "building_short": "CPA"
   },
   {
-    "address": "Lichtenbergstr. 2b",
+    "address": "Lichtenbergstr. 2b; 85748 Garching b. M\u00fcnchen",
     "building_code": "5416",
     "building_id": 2269,
-    "building_name": "Interimsh\u00f6rs\u00e4le II",
+    "building_name": "Interims H\u00f6rs\u00e4le II",
     "building_short": "Interims II"
   },
   {
-    "address": "Lichtenbergstr. 6",
+    "address": "Lichtenbergstr. 4b; 85748 Garching b. M\u00fcnchen",
+    "building_code": "5417",
+    "building_id": 3429,
+    "building_name": "Interim Geb\u00e4ude NAT / OCS",
+    "building_short": null
+  },
+  {
+    "address": "Lichtenbergstr. 6; 85748 Garching b. M\u00fcnchen",
     "building_code": "5433",
     "building_id": 1649,
-    "building_name": "Entrepreneurship Research Institute",
+    "building_name": "Entreprenieurship Centrum (ECM)",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 15",
+    "address": "Boltzmannstr. 15; 85748 Garching b. M\u00fcnchen",
     "building_code": "5501",
     "building_id": 833,
-    "building_name": "MW Institut f\u00fcr Mechatronik",
+    "building_name": "Institut f. Mechatronik",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 15",
+    "address": "Boltzmannstr. 15; 85748 Garching b. M\u00fcnchen",
     "building_code": "5502",
     "building_id": 836,
-    "building_name": "MW Institut f\u00fcr Werkst. u. Verarb.",
+    "building_name": "Institut f. Werkst. u. Verarbeitung",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 15",
+    "address": "Boltzmannstr. 15; 85748 Garching b. M\u00fcnchen",
     "building_code": "5503",
     "building_id": 838,
-    "building_name": "MW Institut f\u00fcr Produktionstechnik",
+    "building_name": "Institut f. Produktionstechnik",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 15",
+    "address": "Boltzmannstr. 15; 85748 Garching b. M\u00fcnchen",
     "building_code": "5504",
     "building_id": 841,
-    "building_name": "MW Institut f\u00fcr Verfahrenstechnik",
+    "building_name": "Institut f. Verfahrenstechnik",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 15",
+    "address": "Boltzmannstr. 15; 85748 Garching b. M\u00fcnchen",
     "building_code": "5505",
     "building_id": 843,
-    "building_name": "MW Institut f\u00fcr Maschinentechnik",
+    "building_name": "Institut f. Maschinentechnik",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 15",
+    "address": "Boltzmannstr. 15; 85748 Garching b. M\u00fcnchen",
     "building_code": "5506",
     "building_id": 845,
-    "building_name": "MW Institut f\u00fcr Luft- und Raumfahrt",
+    "building_name": "Institut f. Luft-u. Raumfahrt",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 15",
+    "address": "Boltzmannstr. 15; 85748 Garching b. M\u00fcnchen",
     "building_code": "5507",
     "building_id": 844,
-    "building_name": "MW Institut f\u00fcr Energietechnik",
+    "building_name": "Institut f. Energietechnik",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 15",
+    "address": "Boltzmannstr. 15; 85748 Garching b. M\u00fcnchen",
     "building_code": "5508",
     "building_id": 846,
-    "building_name": "MW H\u00f6rsaal West",
+    "building_name": "H\u00f6rsaal West",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 15",
+    "address": "Boltzmannstr. 15; 85748 Garching b. M\u00fcnchen",
     "building_code": "5509",
     "building_id": 2569,
-    "building_name": "MW H\u00f6rsaal Ost",
+    "building_name": "Magistrale",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 15",
+    "address": "Boltzmannstr. 15; 85748 Garching b. M\u00fcnchen",
     "building_code": "5510",
     "building_id": 842,
-    "building_name": "MW Bibliothek u. Verwaltung",
+    "building_name": "H\u00f6rsaal, Bibliothek u. Verwaltungsgeb\u00e4ud",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 15",
+    "address": "Boltzmannstr. 15; 85748 Garching b. M\u00fcnchen",
     "building_code": "5512",
     "building_id": 3409,
     "building_name": "Au\u00dfenfl\u00e4chen MW",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 15",
+    "address": "Boltzmannstr. 15; 85748 Garching b. M\u00fcnchen",
     "building_code": "5513",
     "building_id": 817,
-    "building_name": "MW Energiezentrale",
+    "building_name": "Energiezentrale",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 15",
+    "address": "Boltzmannstr. 15; 85748 Garching b. M\u00fcnchen",
     "building_code": "5514",
     "building_id": 820,
     "building_name": "Kinderkrippe",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 15",
+    "address": "Boltzmannstr. 15; 85748 Garching b. M\u00fcnchen",
     "building_code": "5515",
     "building_id": 822,
     "building_name": "Zentrum f\u00fcr Schl\u00fcsselkompetenzen",
@@ -3549,49 +3556,49 @@
     "building_short": "MW"
   },
   {
-    "address": "Boltzmannstr. 15",
+    "address": "Boltzmannstr. 15; 85748 Garching b. M\u00fcnchen",
     "building_code": "5517",
     "building_id": 825,
-    "building_name": "MW Pr\u00fcfstandgeb\u00e4ude",
+    "building_name": "Pr\u00fcfstandgeb\u00e4ude",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 15",
+    "address": "Boltzmannstr. 15; 85748 Garching b. M\u00fcnchen",
     "building_code": "5518",
     "building_id": 827,
-    "building_name": "MW Gasflaschenlager",
+    "building_name": "Gasflaschenlager",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 15",
+    "address": "Boltzmannstr. 15; 85748 Garching b. M\u00fcnchen",
     "building_code": "5519",
     "building_id": 1949,
     "building_name": "FTM Fahrzeughalle",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 17",
+    "address": "Boltzmannstr. 17; 85748 Garching b. M\u00fcnchen",
     "building_code": "5530",
     "building_id": 992,
     "building_name": "IGSSE, Exzellenzzentrum Garching",
     "building_short": null
   },
   {
-    "address": "Lichtenbergstra\u00dfe 9",
+    "address": "Lichtenbergstr. 9; 85748 Garching b. M\u00fcnchen",
     "building_code": "5531",
     "building_id": 1165,
     "building_name": "Ingeborg Ortner-Kinderhaus",
     "building_short": null
   },
   {
-    "address": "Lichtenbergstr. 3",
+    "address": "Lichtenbergstr. 3; 85748 Garching b. M\u00fcnchen",
     "building_code": "5532",
     "building_id": 2229,
     "building_name": "StudiTUM-Garching",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 15",
+    "address": "Boltzmannstr. 15; 85748 Garching b. M\u00fcnchen",
     "building_code": "5537",
     "building_id": 2630,
     "building_name": "Interims-Zelt-TUMshop",
@@ -3605,7 +3612,7 @@
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 15",
+    "address": "Boltzmannstr. 15; 85748 Garching b. M\u00fcnchen",
     "building_code": "5539",
     "building_id": 3149,
     "building_name": "Interims-Tentomax MW",
@@ -3619,115 +3626,115 @@
     "building_short": "MI"
   },
   {
-    "address": "Boltzmannstr. 3",
+    "address": "Boltzmannstr. 3; 85748 Garching b. M\u00fcnchen",
     "building_code": "5601",
     "building_id": 829,
-    "building_name": "FMI Garching - BT01",
+    "building_name": "FMI/ Magistrale",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 3",
+    "address": "Boltzmannstr. 3; 85748 Garching b. M\u00fcnchen",
     "building_code": "5602",
     "building_id": 831,
-    "building_name": "FMI Garching - BT02",
+    "building_name": "FMI/ H\u00f6rsaal 1",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 3",
+    "address": "Boltzmannstr. 3; 85748 Garching b. M\u00fcnchen",
     "building_code": "5603",
     "building_id": 832,
-    "building_name": "FMI Garching - BT03",
+    "building_name": "FMI/ Bibliothek",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 3",
+    "address": "Boltzmannstr. 3; 85748 Garching b. M\u00fcnchen",
     "building_code": "5604",
     "building_id": 834,
-    "building_name": "FMI Garching - BT04",
+    "building_name": "FMI/ Geb\u00e4udeteil  04",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 3",
+    "address": "Boltzmannstr. 3; 85748 Garching b. M\u00fcnchen",
     "building_code": "5605",
     "building_id": 835,
-    "building_name": "FMI Garching - BT05",
+    "building_name": "FMI/ Geb\u00e4udeteil  05",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 3",
+    "address": "Boltzmannstr. 3; 85748 Garching b. M\u00fcnchen",
     "building_code": "5606",
     "building_id": 837,
-    "building_name": "FMI Garching - BT06",
+    "building_name": "FMI/ Geb\u00e4udeteil  06",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 3",
+    "address": "Boltzmannstr. 3; 85748 Garching b. M\u00fcnchen",
     "building_code": "5607",
     "building_id": 839,
-    "building_name": "FMI Garching - BT07",
+    "building_name": "FMI/ Geb\u00e4udeteil  07",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 3",
+    "address": "Boltzmannstr. 3; 85748 Garching b. M\u00fcnchen",
     "building_code": "5608",
     "building_id": 840,
-    "building_name": "FMI Garching - BT08",
+    "building_name": "FMI/ Geb\u00e4udeteil  08",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 3",
+    "address": "Boltzmannstr. 3; 85748 Garching b. M\u00fcnchen",
     "building_code": "5609",
     "building_id": 865,
-    "building_name": "FMI Garching - BT09",
+    "building_name": "FMI/ Geb\u00e4udeteil  09",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 3",
+    "address": "Boltzmannstr. 3; 85748 Garching b. M\u00fcnchen",
     "building_code": "5610",
     "building_id": 799,
-    "building_name": "FMI Garching - BT10",
+    "building_name": "FMI/ Geb\u00e4udeteil  10",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 3",
+    "address": "Boltzmannstr. 3; 85748 Garching b. M\u00fcnchen",
     "building_code": "5611",
     "building_id": 800,
-    "building_name": "FMI Garching - BT11",
+    "building_name": "FMI/ Geb\u00e4udeteil  11",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 3",
+    "address": "Boltzmannstr. 3; 85748 Garching b. M\u00fcnchen",
     "building_code": "5612",
     "building_id": 801,
-    "building_name": "FMI Garching - BT12",
+    "building_name": "FMI/ Geb\u00e4udeteil  12",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 3",
+    "address": "Boltzmannstr. 3; 85748 Garching b. M\u00fcnchen",
     "building_code": "5613",
     "building_id": 802,
-    "building_name": "FMI Garching - BT13",
+    "building_name": "FMI/ Geb\u00e4udeteil  13",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 5",
+    "address": "Boltzmannstr. 5; 85748 Garching b. M\u00fcnchen",
     "building_code": "5620",
     "building_id": 1205,
     "building_name": "Interims-Audimax",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 5",
+    "address": "Boltzmannstr. 5; 85748 Garching b. M\u00fcnchen",
     "building_code": "5622",
     "building_id": 1749,
     "building_name": "Sportanlage Garching/Dusch Container",
     "building_short": null
   },
   {
-    "address": "Boltzmannstr. 11",
+    "address": "Boltzmannstr. 11; 85748 Garching b. M\u00fcnchen",
     "building_code": "5701",
     "building_id": 803,
-    "building_name": "Munich School of BioEngineering",
+    "building_name": "Munich School of BioEngineering (ehm.IME",
     "building_short": null
   },
   {
@@ -3745,21 +3752,21 @@
     "building_short": "LRZ"
   },
   {
-    "address": "Hans-Piloty-Str. 1",
+    "address": "Hans-Piloty-Str. 1; 85748 Garching b. M\u00fcnchen",
     "building_code": "5901",
     "building_id": 2849,
     "building_name": "Elektro- und Informationstechnik",
     "building_short": null
   },
   {
-    "address": "Friedrich-Ludwig-Bauer-Str. 3",
+    "address": "Friedrich-Ludwig-Bauer-Str. 3; 85748 Garching b. M\u00fcnchen",
     "building_code": "5932",
     "building_id": 3169,
-    "building_name": "Siemens Science Center Garching",
+    "building_name": "Siemens Technology Center (STC)",
     "building_short": null
   },
   {
-    "address": "Friedrich-Ludwig-Bauer-Str. 5",
+    "address": "Friedrich-Ludwig-Bauer-Str. 5; 85748 Garching b. M\u00fcnchen",
     "building_code": "5933",
     "building_id": 3229,
     "building_name": "SAP Labs Munich (AM)",
@@ -3773,21 +3780,21 @@
     "building_short": null
   },
   {
-    "address": "R\u00f6merhofweg 67",
+    "address": "R\u00f6merhofweg 67; 85748 Garching b. M\u00fcnchen",
     "building_code": "6101",
     "building_id": 805,
     "building_name": "Heizwerk",
     "building_short": null
   },
   {
-    "address": "R\u00f6merhofweg 67",
+    "address": "R\u00f6merhofweg 67; 85748 Garching b. M\u00fcnchen",
     "building_code": "6102",
     "building_id": 806,
     "building_name": "Betriebsgeb\u00e4ude",
     "building_short": null
   },
   {
-    "address": "R\u00f6merhofweg 67",
+    "address": "R\u00f6merhofweg 67; 85748 Garching b. M\u00fcnchen",
     "building_code": "6103",
     "building_id": 807,
     "building_name": "Hochspannungsgeb\u00e4ude",
@@ -3801,175 +3808,189 @@
     "building_short": null
   },
   {
-    "address": null,
+    "address": "R\u00f6merhofweg 67; 85748 Garching b. M\u00fcnchen",
     "building_code": "6106",
     "building_id": 2409,
     "building_name": "Trafostation Betriebsgeb\u00e4ude",
     "building_short": null
   },
   {
-    "address": "R\u00f6merhofweg 67",
+    "address": "R\u00f6merhofweg 67; 85748 Garching b. M\u00fcnchen",
     "building_code": "6107",
     "building_id": 808,
     "building_name": "Garagenbau",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "R\u00f6merhofweg 67; 85748 Garching b. M\u00fcnchen",
     "building_code": "6202",
     "building_id": 810,
     "building_name": "Feuerwehrwache",
     "building_short": null
   },
   {
-    "address": "Freisinger Landstr. 52",
+    "address": "Freisinger Landstr. 52; 85748 Garching b. M\u00fcnchen",
     "building_code": "7894",
     "building_id": 3010,
     "building_name": "Newton (AM)",
     "building_short": null
   },
   {
-    "address": "Freisinger Landstra\u00dfe 50",
+    "address": "Freisinger Landstr. 50; 85748 Garching b. M\u00fcnchen",
     "building_code": "7895",
     "building_id": 3089,
     "building_name": "Pascal Halle",
     "building_short": null
   },
   {
-    "address": "Freisinger Landstra\u00dfe 50",
+    "address": "Freisinger Landstr. 50; 85748 Garching b. M\u00fcnchen",
     "building_code": "7896",
     "building_id": 3069,
-    "building_name": "MW-Halle (AM)",
+    "building_name": "MW Halle (AM)",
     "building_short": null
   },
   {
-    "address": "Ludwig-Prandtl-Str. 1",
+    "address": "Ludwig-Prandtl-Str. 1; 85748 Garching b. M\u00fcnchen",
     "building_code": "7910",
     "building_id": 1040,
     "building_name": "Oskar-von-Miller Turm",
     "building_short": null
   },
   {
-    "address": "Parkring 11-13",
+    "address": "Parkring 11-13; 85748 Garching b. M\u00fcnchen",
     "building_code": "8101",
     "building_id": 1038,
-    "building_name": "Parkring 11-13 Garching b. M\u00fcnchen",
+    "building_name": "Business Campus Garching (BC1)",
     "building_short": null
   },
   {
-    "address": "Parkring 35-39",
+    "address": "Parkring 35-39; 85748 Garching b. M\u00fcnchen",
     "building_code": "8102",
     "building_id": 1305,
-    "building_name": "Parkring 35-39 Garching b. M\u00fcnchen",
+    "building_name": "Business Campus Garching (BC2)",
     "building_short": null
   },
   {
-    "address": "Carl-Zeiss-Stra\u00dfe 8",
+    "address": "Carl-Zeiss-Str. 8; 85748 Garching b. M\u00fcnchen",
     "building_code": "8104",
     "building_id": 3009,
     "building_name": "Carl-Zeiss-Stra\u00dfe (AM)",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Schlei\u00dfheimerstra\u00dfe 90a; 85748 Garching b. M\u00fcnchen",
     "building_code": "8111",
     "building_id": 1629,
     "building_name": "Schlei\u00dfheimerstr. 90a",
     "building_short": null
   },
   {
-    "address": "Walther-von-Dyck-Str. 10",
+    "address": "Walther-von-Dyck-Str. 10; 85748 Garching b. M\u00fcnchen",
     "building_code": "8120",
     "building_id": 2131,
     "building_name": "Conference Center",
     "building_short": null
   },
   {
-    "address": "Walther-von-Dyck-Str. 12",
+    "address": "Walther-von-Dyck-Str. 12; 85748 Garching b. M\u00fcnchen",
     "building_code": "8121",
     "building_id": 2132,
     "building_name": "Courtyard Hotel",
     "building_short": null
   },
   {
-    "address": "Walther-von-Dyck-Str. 6",
+    "address": "Walther-von-Dyck-Str. 6; 85748 Garching b. M\u00fcnchen",
     "building_code": "8122",
     "building_id": 2591,
     "building_name": "Galileo B\u00fcro, W. v. Dyck-Str. 6",
     "building_short": null
   },
   {
-    "address": "Walther-von-Dyck-Strasse 4",
+    "address": "Walther-von-Dyck-Str. 4; 85748 Garching b. M\u00fcnchen",
     "building_code": "8123",
     "building_id": 2590,
     "building_name": "Galileo B\u00fcro, W. v. Dyck-Str. 4",
     "building_short": null
   },
   {
-    "address": "Walther-von-Dyck-Strasse 14",
+    "address": "Walther-von-Dyck-Str. 14; 85748 Garching b. M\u00fcnchen",
     "building_code": "8124",
     "building_id": 3029,
     "building_name": "Galileo B\u00fcro, W. v. Dyck-Str. 14",
     "building_short": null
   },
   {
-    "address": null,
+    "address": "Raitenhaslach 11; 84489 Burghausen",
     "building_code": "9001",
     "building_id": 1775,
     "building_name": "TUM Science & Study Center Raitenhaslach",
     "building_short": null
   },
   {
-    "address": "Bahnhofstra\u00dfe 37",
+    "address": "Bahnhofstra\u00dfe 37; 82467 Garmisch-Partenkirchen",
     "building_code": "9101",
     "building_id": 2330,
     "building_name": "Garmisch-Partenkirchen Bahnhofstr. 37 (A",
     "building_short": null
   },
   {
-    "address": null,
-    "building_code": "9201",
-    "building_id": 2450,
-    "building_name": "TUM FZ Friedrich N. Schwarz Berchtesgaden\n",
+    "address": "Breitenauerstra\u00dfe 1a; 82467 Garmisch-Partenkirchen",
+    "building_code": "9110",
+    "building_id": 3469,
+    "building_name": "GP Geigergeb\u00e4ude",
     "building_short": null
   },
   {
-    "address": "Willy-Messerschmitt-Stra\u00dfe 1",
+    "address": "Ro\u00dffeldstr.; 83471 Berchtesgaden",
+    "building_code": "9201",
+    "building_id": 2450,
+    "building_name": "TUM FZ Friedrich N. Schwarz Berchtesgade",
+    "building_short": null
+  },
+  {
+    "address": "Willy-Messerschmitt-Str. 1; 82024 Taufkirchen",
     "building_code": "9376",
     "building_id": 2490,
     "building_name": "Airbus Standort 76.C Taufkirchen/Ottobru",
     "building_short": null
   },
   {
-    "address": "Lise-Meitner-Str. 9-11",
+    "address": "Lise-Meitner-Str. 9-11; 85521 Ottobrunn",
     "building_code": "9377",
     "building_id": 2890,
-    "building_name": "Lise-Meitner-Stra\u00dfe 9-11",
+    "building_name": "Lise-Meitner-Stra\u00dfe (AM)",
     "building_short": null
   },
   {
-    "address": "Caroline-Herschel-Stra\u00dfe 100",
+    "address": "Caroline-Herschel-Str. 100; 85521 Ottobrunn",
     "building_code": "9378",
     "building_id": 2889,
     "building_name": "TUM Panasonic (AM)",
     "building_short": null
   },
   {
-    "address": "Lise-Meitner-Stra\u00dfe 8",
+    "address": "Lise-Meitner-Str. 8; 85521 Ottobrunn",
     "building_code": "9379",
     "building_id": 2949,
     "building_name": "Lise Meitner Str. 8 (AM)",
     "building_short": null
   },
   {
-    "address": "Lise-Meitner-Stra\u00dfe 9",
+    "address": "Caroline-Herschel-Str. 100; 85521 Ottobrunn",
     "building_code": "9380",
     "building_id": 3109,
     "building_name": "Hyperloop-Halle Ottobrunn (AM)",
     "building_short": null
   },
   {
-    "address": "Claude-Dornier-Stra\u00dfe 1",
+    "address": "Willy-Messerschmitt 11; 82024 Taufkirchen",
+    "building_code": "9386",
+    "building_id": 3489,
+    "building_name": "Willy-Messerschmitt-Str. 11 (AM)",
+    "building_short": null
+  },
+  {
+    "address": "Claude-Dornier-Str. 1; 82234 We\u00dfling",
     "building_code": "9390",
     "building_id": 3129,
     "building_name": "Aviation Flight Test Center/Halle 507 (A",
